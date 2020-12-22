@@ -1,0 +1,1001 @@
+input, target
+C#Cc1ccc(CCCCCCCC)o1, 2-ethynyl-5-octylfuran
+CCC(N)CCNC(=O)NC(C)C, 1-(3-aminopentyl)-3-propan-2-ylurea
+Fc1csc2c(I)c(I)ccc12, 3-fluoro-6,7-diiodo-1-benzothiophene
+CCCOc1c(F)cc(OC)cc1F, 1,3-difluoro-5-methoxy-2-propoxybenzene
+NC(=O)C1CCc2ncccc2C1, 5,6,7,8-tetrahydroquinoline-6-carboxamide
+C/C=C(\C)P(=O)(OC)OC, (E)-2-dimethoxyphosphorylbut-2-ene
+C=C(N)/C(=C\C=C/C)CN, (2Z)-2-[(Z)-but-2-enylidene]but-3-ene-1,3-diamine
+C=C(COC)C1(OC)CCCCC1, 1-methoxy-1-(3-methoxyprop-1-en-2-yl)cyclohexane
+Clc1ncccc1CSc1ccncn1, 4-[(2-chloropyridin-3-yl)methylsulfanyl]pyrimidine
+CCC(C)(O)CSc1ccccc1N, 1-(2-aminophenyl)sulfanyl-2-methylbutan-2-ol
+CC1CCCCC1n1cnc(CO)c1, [1-(2-methylcyclohexyl)imidazol-4-yl]methanol
+CC(=O)N(C)[C@@H](C)N, N-[(1S)-1-aminoethyl]-N-methylacetamide
+CCNC(CC)Cc1ccc(C)cn1, N-ethyl-1-(5-methylpyridin-2-yl)butan-2-amine
+Nc1cnc(NC2CCSCC2)cn1, 2-N-(thian-4-yl)pyrazine-2,5-diamine
+Cc1cc(C)cc(C(=O)S)c1, 3,5-dimethylbenzenecarbothioic S-acid
+C#CCCNC1CC(=O)N(C)C1, 4-(but-3-ynylamino)-1-methylpyrrolidin-2-one
+CC=CC(C)CCC(C)(C)CCC, 4,7,7-trimethyldec-2-ene
+CNC(=O)CN1CCCCC(F)C1, 2-(3-fluoroazepan-1-yl)-N-methylacetamide
+Cc1cc(NCC2CC2)ncc1Br, 5-bromo-N-(cyclopropylmethyl)-4-methylpyridin-2-amine
+Cc1c(Br)cnc(Cl)c1C#N, 5-bromo-2-chloro-4-methylpyridine-3-carbonitrile
+CCCCCCCC(N)CC1CCOCC1, 1-(oxan-4-yl)nonan-2-amine
+Fc1c(I)cnc(I)c1C(F)F, 3-(difluoromethyl)-4-fluoro-2,5-diiodopyridine
+COc1cc(CCl)cc(C)c1OC, 5-(chloromethyl)-1,2-dimethoxy-3-methylbenzene
+CCCC(CC)NCCCCc1nccs1, N-[4-(1,3-thiazol-2-yl)butyl]hexan-3-amine
+C=NN(C(N)=S)c1ccccc1, 1-(methylideneamino)-1-phenylthiourea
+CC(C)(Br)c1ccc(I)cc1, 1-(2-bromopropan-2-yl)-4-iodobenzene
+C=C1CCC2C(=C)CCCC2C1, 4,7-dimethylidene-1,2,3,4a,5,6,8,8a-octahydronaphthalene
+CSCCCCNS(=O)(=O)CC#N, 1-cyano-N-(4-methylsulfanylbutyl)methanesulfonamide
+CCC12CC(C)[N+]1(C)C2, 4-ethyl-1,2-dimethyl-1-azoniabicyclo[2.1.0]pentane
+CCSCCc1nc(C)n(CC)c1N, 3-ethyl-5-(2-ethylsulfanylethyl)-2-methylimidazol-4-amine
+CC(N)C(C)N1CCCCCCCC1, 3-(azonan-1-yl)butan-2-amine
+COC[C@H](I)Cc1ccccc1, [(2R)-2-iodo-3-methoxypropyl]benzene
+O=C1NCC(CO)Cn2ncnc21, 6-(hydroxymethyl)-5,6,7,8-tetrahydro-[1,2,4]triazolo[1,5-a][1,4]diazepin-9-one
+Nc1cnc(C(F)F)c(Cl)c1, 5-chloro-6-(difluoromethyl)pyridin-3-amine
+CC(C)NC(CN)CC1CCCCC1, 3-cyclohexyl-2-N-propan-2-ylpropane-1,2-diamine
+C/C=C/C(=O)N(C)CCC=O, (E)-N-methyl-N-(3-oxopropyl)but-2-enamide
+CC1CCC(NN=CC2CC2)CC1, N-(cyclopropylmethylideneamino)-4-methylcyclohexan-1-amine
+COc1cnc(Cl)nc1C(=O)O, 2-chloro-5-methoxypyrimidine-4-carboxylic acid
+Cn1ccc(NCC2=CCCC2)n1, N-(cyclopenten-1-ylmethyl)-1-methylpyrazol-3-amine
+CCC(CC)CNc1ccc(N)cc1, 4-N-(2-ethylbutyl)benzene-1,4-diamine
+CC1(C)CCC2(CC1)CC2CN, (6,6-dimethylspiro[2.5]octan-2-yl)methanamine
+S=C1COc2c(Cl)cccc2N1, 8-chloro-4H-1,4-benzoxazine-3-thione
+COCCCOC(=O)CCC(O)COC, 3-methoxypropyl 4-hydroxy-5-methoxypentanoate
+CC(F)(F)CNc1ncncc1Br, 5-bromo-N-(2,2-difluoropropyl)pyrimidin-4-amine
+CCCNC(CSCCC)c1sccc1C, N-[1-(3-methylthiophen-2-yl)-2-propylsulfanylethyl]propan-1-amine
+CCCCC(C)NC(C)c1ccco1, N-[1-(furan-2-yl)ethyl]hexan-2-amine
+N#Cc1cccc(C(=O)O)c1O, 3-cyano-2-hydroxybenzoic acid
+Clc1ccc(C2=CSCN2)cc1, 4-(4-chlorophenyl)-2,3-dihydro-1,3-thiazole
+CC1=C(O)C(O)CC(O)C1O, 3-methylcyclohex-2-ene-1,2,4,5-tetrol
+CCCc1ccc(CCCCC#N)cc1, 5-(4-propylphenyl)pentanenitrile
+BrC1CC1c1ccc2sccc2n1, 5-(2-bromocyclopropyl)thieno[3,2-b]pyridine
+C=Cc1cc(OC)cc(OCC)c1, 1-ethenyl-3-ethoxy-5-methoxybenzene
+CCc1ncsc1NC(=O)C1CC1, N-(4-ethyl-1,3-thiazol-5-yl)cyclopropanecarboxamide
+Cn1ccnc(NC2CCC2)c1=O, 3-(cyclobutylamino)-1-methylpyrazin-2-one
+N#CC(CNCCCO)c1ccccc1, 3-(3-hydroxypropylamino)-2-phenylpropanenitrile
+Cn1nc(CNC2CCCC2)cc1N, 5-[(cyclopentylamino)methyl]-2-methylpyrazol-3-amine
+CCCOCCOC(CN)c1ccncc1, 2-(2-propoxyethoxy)-2-pyridin-4-ylethanamine
+CN(C)C(CO)c1ccc[nH]1, 2-(dimethylamino)-2-(1H-pyrrol-2-yl)ethanol
+O=C[C@H]1CCC2(CC2)O1, (5R)-4-oxaspiro[2.4]heptane-5-carbaldehyde
+CC(C)CC1CCCC1N(C)CCO, 2-[methyl-[2-(2-methylpropyl)cyclopentyl]amino]ethanol
+[C-]#[N+]c1ccccc1OCC, 1-ethoxy-2-isocyanobenzene
+O=C(CC1CCCO1)NC1COC1, N-(oxetan-3-yl)-2-(oxolan-2-yl)acetamide
+CC(=S)CC(=O)C(F)(F)F, 1,1,1-trifluoro-4-sulfanylidenepentan-2-one
+NC(Cc1cccs1)c1sccc1I, 1-(3-iodothiophen-2-yl)-2-thiophen-2-ylethanamine
+Cc1noc2c1=CCC(=N)C=2, 3-methyl-5H-1,2-benzoxazol-6-imine
+OCCN(CCO)CCCN1CCCCC1, 2-[2-hydroxyethyl(3-piperidin-1-ylpropyl)amino]ethanol
+CC(=O)CC[C@@H]1CCCN1, 4-[(2S)-pyrrolidin-2-yl]butan-2-one
+C/[P+](Cl)=N\P(Cl)Cl, (E)-chloro-dichlorophosphanylimino-methylphosphanium
+Nc1cncnc1NC1CC2CC2C1, 4-N-(3-bicyclo[3.1.0]hexanyl)pyrimidine-4,5-diamine
+Oc1ccc(-c2cccs2)cc1F, 2-fluoro-4-thiophen-2-ylphenol
+COc1sc2cc(Br)ccc2c1O, 6-bromo-2-methoxy-1-benzothiophen-3-ol
+COc1cccc(CC2CCCO2)c1, 2-[(3-methoxyphenyl)methyl]oxolane
+NC(CCc1cccs1)C1CCCS1, 1-(thiolan-2-yl)-3-thiophen-2-ylpropan-1-amine
+CCn1nncc1C(N)C1CCCC1, cyclopentyl-(3-ethyltriazol-4-yl)methanamine
+S=C(C1CNCCO1)N1CCCC1, morpholin-2-yl(pyrrolidin-1-yl)methanethione
+NNc1ccc(-n2cccn2)nn1, (6-pyrazol-1-ylpyridazin-3-yl)hydrazine
+CC1C2CCCCC2NC2CNCC21, 9-methyl-2,3,3a,4,4a,5,6,7,8,8a,9,9a-dodecahydro-1H-pyrrolo[3,4-b]quinoline
+OB(O)c1cscc1C(F)(F)F, [4-(trifluoromethyl)thiophen-3-yl]boronic acid
+NN(Br)c1ccc(Br)cc1Br, 1-bromo-1-(2,4-dibromophenyl)hydrazine
+CCn1ncc(Br)c1CCC(C)O, 4-(4-bromo-2-ethylpyrazol-3-yl)butan-2-ol
+C[C@@H]1SCC(=O)OC1=O, (3S)-3-methyl-1,4-oxathiane-2,6-dione
+CC(=O)NC1C=CC2CCC1C2, N-(2-bicyclo[3.2.1]oct-3-enyl)acetamide
+CCCCCC(C)n1ncc(I)c1N, 2-heptan-2-yl-4-iodopyrazol-3-amine
+Fc1cc(S)c(C(F)F)cc1F, 2-(difluoromethyl)-4,5-difluorobenzenethiol
+CC(=O)C1CCCc2ccccc21, 1-(1,2,3,4-tetrahydronaphthalen-1-yl)ethanone
+CCC/C=C/O[Si](C)(C)C, trimethyl-[(E)-pent-1-enoxy]silane
+Cn1cc(CC2(O)CSC2)nn1, 3-[(1-methyltriazol-4-yl)methyl]thietan-3-ol
+COCCCNCc1cnn2ccccc12, 3-methoxy-N-(pyrazolo[1,5-a]pyridin-3-ylmethyl)propan-1-amine
+CC1CN(CCOCCO)CC(C)N1, 2-[2-(3,5-dimethylpiperazin-1-yl)ethoxy]ethanol
+NC(CCCl)c1ccc(Cl)cc1, 3-chloro-1-(4-chlorophenyl)propan-1-amine
+CC1(CCC2CCNC2)CCCCN1, 2-methyl-2-(2-pyrrolidin-3-ylethyl)piperidine
+C=CCC(C)Nc1cccc(F)c1, 3-fluoro-N-pent-4-en-2-ylaniline
+CCCCNc1cc(NCCCO)ncn1, 3-[[6-(butylamino)pyrimidin-4-yl]amino]propan-1-ol
+Clc1ccc(CNc2nnco2)o1, N-[(5-chlorofuran-2-yl)methyl]-1,3,4-oxadiazol-2-amine
+CCc1ccnc2c(SC)cccc12, 4-ethyl-8-methylsulfanylquinoline
+CCCN1CCC(NCCCCSC)CC1, N-(4-methylsulfanylbutyl)-1-propylpiperidin-4-amine
+Nc1cnoc1-c1ccc(Cl)o1, 5-(5-chlorofuran-2-yl)-1,2-oxazol-4-amine
+C=CCCSc1ccccc1C(N)=O, 2-but-3-enylsulfanylbenzamide
+NNc1ncccc1CSCC1CCCC1, [3-(cyclopentylmethylsulfanylmethyl)pyridin-2-yl]hydrazine
+CCC(C)N(C)CCC(C)(C)N, 1-N-butan-2-yl-1-N,3-dimethylbutane-1,3-diamine
+CCCCCCCC[C@](C)(S)CC, (3R)-3-methylundecane-3-thiol
+CCC(CC)CNCCC(N)C1CC1, 1-cyclopropyl-N'-(2-ethylbutyl)propane-1,3-diamine
+CC(C)c1ccc(C(N)O)cc1, amino-(4-propan-2-ylphenyl)methanol
+Clc1cnccc1NCC1CCCCS1, 3-chloro-N-(thian-2-ylmethyl)pyridin-4-amine
+CCC(C#N)C(O)COC(C)=O, (3-cyano-2-hydroxypentyl) acetate
+CC(C)OCCCN1CCC(CO)C1, [1-(3-propan-2-yloxypropyl)pyrrolidin-3-yl]methanol
+COc1cc2ccccc2c(=O)o1, 3-methoxyisochromen-1-one
+COC(=O)NC1C=CC=CC=C1, methyl N-cyclohepta-2,4,6-trien-1-ylcarbamate
+Cc1cc(C)c2ccn(N)c2n1, 4,6-dimethylpyrrolo[2,3-b]pyridin-1-amine
+CCC(CC)(CBr)Cc1nccs1, 2-[2-(bromomethyl)-2-ethylbutyl]-1,3-thiazole
+Nc1ccc2c(c1)CN(CO)C2, (5-amino-1,3-dihydroisoindol-2-yl)methanol
+C[Si](C)(C)ON1CCCCC1, trimethyl(piperidin-1-yloxy)silane
+CC1CCCC(C)C1(N)C(F)F, 1-(difluoromethyl)-2,6-dimethylcyclohexan-1-amine
+C#CC(O)c1c(F)cccc1OC, 1-(2-fluoro-6-methoxyphenyl)prop-2-yn-1-ol
+C#CC(=O)Nc1nnc(C)n1C, N-(4,5-dimethyl-1,2,4-triazol-3-yl)prop-2-ynamide
+Cc1ccc(C(=O)C(C)C)o1, 2-methyl-1-(5-methylfuran-2-yl)propan-1-one
+CCCC(C)NCC(CC)C(=O)O, 2-[(pentan-2-ylamino)methyl]butanoic acid
+CC1CCC(CNC2CCSCC2)O1, N-[(5-methyloxolan-2-yl)methyl]thian-4-amine
+[2H]C(O)CCCCCCCC1CO1, 1-deuterio-8-(oxiran-2-yl)octan-1-ol
+CC1(C)CCC1Nc1ccccc1I, N-(2,2-dimethylcyclobutyl)-2-iodoaniline
+CCc1cc2scc(OC)c2cc1O, 6-ethyl-3-methoxy-1-benzothiophen-5-ol
+CCc1cc2sc(I)cc2cc1Br, 5-bromo-6-ethyl-2-iodo-1-benzothiophene
+Oc1c(F)cc(C(F)F)cc1F, 4-(difluoromethyl)-2,6-difluorophenol
+Cc1cc(SC#N)cc(Cl)c1N, (4-amino-3-chloro-5-methylphenyl) thiocyanate
+Cn1cc(NCC2CCCCO2)cn1, 1-methyl-N-(oxan-2-ylmethyl)pyrazol-4-amine
+CCCC(C)C(O)(CN)C(C)C, 3-(aminomethyl)-2,4-dimethylheptan-3-ol
+FC(F)Oc1cccc(Br)c1Br, 1,2-dibromo-3-(difluoromethoxy)benzene
+CC1SCCCC1(O)Cc1ccsc1, 2-methyl-3-(thiophen-3-ylmethyl)thian-3-ol
+CNC(=O)N(C)C(=O)NCCN, 1-(2-aminoethylcarbamoyl)-1,3-dimethylurea
+CSC1CCCC(C(F)(F)F)C1, 1-methylsulfanyl-3-(trifluoromethyl)cyclohexane
+NCC(=O)Nc1ccc(F)cc1I, 2-amino-N-(4-fluoro-2-iodophenyl)acetamide
+O=C(CCCCBr)NN1CCCCC1, 5-bromo-N-piperidin-1-ylpentanamide
+CCC1(CO)CC(F)(F)CN1C, (2-ethyl-4,4-difluoro-1-methylpyrrolidin-2-yl)methanol
+CNC(C)C(=O)NC1CCCC1C, 2-(methylamino)-N-(2-methylcyclopentyl)propanamide
+O=C(O)C1CC2(CO)CC2N1, 5-(hydroxymethyl)-2-azabicyclo[3.1.0]hexane-3-carboxylic acid
+O=C(CBr)Nc1ccc(I)cn1, 2-bromo-N-(5-iodopyridin-2-yl)acetamide
+C=CCCCC(=O)CC1CCCNC1, 1-piperidin-3-ylhept-6-en-2-one
+CCCn1ccnc1SCCC=C(F)F, 2-(4,4-difluorobut-3-enylsulfanyl)-1-propylimidazole
+CC[N+](C)(C)c1ccncc1, ethyl-dimethyl-pyridin-4-ylazanium
+c1nc(CCNCc2cscn2)cs1, 2-(1,3-thiazol-4-yl)-N-(1,3-thiazol-4-ylmethyl)ethanamine
+CCC(CC)Nc1cccc(Br)n1, 6-bromo-N-pentan-3-ylpyridin-2-amine
+COc1ccc(CNC(=O)O)cc1, (4-methoxyphenyl)methylcarbamic acid
+CCCOc1nc(C)cc(=O)n1C, 3,6-dimethyl-2-propoxypyrimidin-4-one
+CC(C)C(C)OCCC1CCCCN1, 2-[2-(3-methylbutan-2-yloxy)ethyl]piperidine
+CNCCCN(C)CCOC(F)(F)F, N,N'-dimethyl-N'-[2-(trifluoromethoxy)ethyl]propane-1,3-diamine
+CC1CCCCCN1CCNCCN(C)C, N',N'-dimethyl-N-[2-(2-methylazepan-1-yl)ethyl]ethane-1,2-diamine
+C#CC(=O)NC(C)C1CCCO1, N-[1-(oxolan-2-yl)ethyl]prop-2-ynamide
+NCCc1ccccc1-c1cncn1F, 2-[2-(3-fluoroimidazol-4-yl)phenyl]ethanamine
+CC(O)c1ccc(N)c(Br)c1, 1-(4-amino-3-bromophenyl)ethanol
+COc1ccc2c(c1)NC[Se]2, 5-methoxy-2,3-dihydro-1,3-benzoselenazole
+CC(N)CN1CCC(C)CCC1=O, 1-(2-aminopropyl)-5-methylazepan-2-one
+c1snnc1CNC1CCCC2CC21, N-(thiadiazol-4-ylmethyl)bicyclo[4.1.0]heptan-2-amine
+O=S1OCC(CC(F)(F)F)O1, 4-(2,2,2-trifluoroethyl)-1,3,2-dioxathiolane 2-oxide
+CCNCC(=O)NC1(C)CCOC1, 2-(ethylamino)-N-(3-methyloxolan-3-yl)acetamide
+CNCCCN(C)C(C)CC(=O)O, 3-[methyl-[3-(methylamino)propyl]amino]butanoic acid
+N#CC1CC2CCCCC2CC1C#N, 1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene-2,3-dicarbonitrile
+O=C(Nc1cnns1)c1cnoc1, N-(thiadiazol-5-yl)-1,2-oxazole-4-carboxamide
+CNc1c(C)cc(C)c(F)c1C, 3-fluoro-N,2,4,6-tetramethylaniline
+CCc1nc(Br)c2n1CCNC2C, 1-bromo-3-ethyl-8-methyl-5,6,7,8-tetrahydroimidazo[1,5-a]pyrazine
+CCc1csc(CC2CNCCO2)n1, 2-[(4-ethyl-1,3-thiazol-2-yl)methyl]morpholine
+C=Cc1ccc(=O)n(CCO)c1, 5-ethenyl-1-(2-hydroxyethyl)pyridin-2-one
+O=C(NCC1CCC1)c1nccs1, N-(cyclobutylmethyl)-1,3-thiazole-2-carboxamide
+CCOCC(=O)C(N)c1cccs1, 1-amino-3-ethoxy-1-thiophen-2-ylpropan-2-one
+CCC1CCNC(CNC2CCC2)C1, N-[(4-ethylpiperidin-2-yl)methyl]cyclobutanamine
+CCC(O)CCCNC(C)CC1CC1, 6-(1-cyclopropylpropan-2-ylamino)hexan-3-ol
+Cc1nonc1CNCCc1nccn1C, 2-(1-methylimidazol-2-yl)-N-[(4-methyl-1,2,5-oxadiazol-3-yl)methyl]ethanamine
+CC(N)C(C)NOCc1ccccc1, 3-N-phenylmethoxybutane-2,3-diamine
+CCNC(=O)NC(=O)C(C)SC, N-(ethylcarbamoyl)-2-methylsulfanylpropanamide
+CN=C(NC)NC1CCCC1(F)F, 1-(2,2-difluorocyclopentyl)-2,3-dimethylguanidine
+OCCSc1ccc2c(c1)CCCC2, 2-(5,6,7,8-tetrahydronaphthalen-2-ylsulfanyl)ethanol
+Fc1c(Br)cc(Br)cc1CBr, 1,5-dibromo-3-(bromomethyl)-2-fluorobenzene
+CC(=O)OCCS(Cl)(Cl)Cl, 2-(trichloro-λ4-sulfanyl)ethyl acetate
+CC(C)(C)CCn1cnccc1=O, 3-(3,3-dimethylbutyl)pyrimidin-4-one
+CCc1cc(OC)cc(C)c1C=O, 2-ethyl-4-methoxy-6-methylbenzaldehyde
+CC(Br)CCCCOCc1ccccc1, 5-bromohexoxymethylbenzene
+CCCCN(C(=N)CCC)C1CC1, N-butyl-N-cyclopropylbutanimidamide
+COC(OC)C1CCCc2ccoc21, 7-(dimethoxymethyl)-4,5,6,7-tetrahydro-1-benzofuran
+C=C(C)C12C=CC(C)C1C2, 4-methyl-1-prop-1-en-2-ylbicyclo[3.1.0]hex-2-ene
+CCCC1(CC)CC(=O)C=CO1, 2-ethyl-2-propyl-3H-pyran-4-one
+CN1CCC(NCC(=O)O)C1=O, 2-[(1-methyl-2-oxopyrrolidin-3-yl)amino]acetic acid
+CC#CCNC1(CN)CC(C)C1C, 1-(aminomethyl)-N-but-2-ynyl-2,3-dimethylcyclobutan-1-amine
+CC1C(N)CCN1CCC1CCCC1, 1-(2-cyclopentylethyl)-2-methylpyrrolidin-3-amine
+CC1CN(C2OC2C)CC(C)N1, 3,5-dimethyl-1-(3-methyloxiran-2-yl)piperazine
+CNc1ncc(CCc2ccco2)s1, 5-[2-(furan-2-yl)ethyl]-N-methyl-1,3-thiazol-2-amine
+Clc1ncccc1CSCC1CCCC1, 2-chloro-3-(cyclopentylmethylsulfanylmethyl)pyridine
+O=C1C2CC=CC2C12SCCS2, spiro[1,3-dithiolane-2,7'-bicyclo[3.2.0]hept-2-ene]-6'-one
+S=C(CBr)Nc1ccc(I)cc1, 2-bromo-N-(4-iodophenyl)ethanethioamide
+Cc1nc2ccc(C)c(F)c2s1, 7-fluoro-2,6-dimethyl-1,3-benzothiazole
+CC#CCNc1ccccc1C(=O)O, 2-(but-2-ynylamino)benzoic acid
+Cc1cc(OCCOCCS)ccc1Cl, 2-[2-(4-chloro-3-methylphenoxy)ethoxy]ethanethiol
+Nc1ccccc1CNCCc1nccs1, 2-[[2-(1,3-thiazol-2-yl)ethylamino]methyl]aniline
+CCCCCC(=O)CC(=O)[O-], 3-oxooctanoate
+N#CCc1ccc(CO)c(NN)c1, 2-[3-hydrazinyl-4-(hydroxymethyl)phenyl]acetonitrile
+CNCCn1ccc(=O)c(O)c1C, 3-hydroxy-2-methyl-1-[2-(methylamino)ethyl]pyridin-4-one
+CCOC(=O)C(O)Cc1nccs1, ethyl 2-hydroxy-3-(1,3-thiazol-2-yl)propanoate
+C1=CC(=Cc2ccco2)C=C1, 2-(cyclopenta-2,4-dien-1-ylidenemethyl)furan
+CCCC(C)(C)n1nnnc1CNC, N-methyl-1-[1-(2-methylpentan-2-yl)tetrazol-5-yl]methanamine
+C#CCONc1c(C)cccc1C#N, 3-methyl-2-(prop-2-ynoxyamino)benzonitrile
+COC(=O)c1ncc(CN)cc1F, methyl 5-(aminomethyl)-3-fluoropyridine-2-carboxylate
+N#Cc1ccn2cccc(Br)c12, 8-bromoindolizine-1-carbonitrile
+Nc1cnc(NC2CCCC2O)nc1, 2-[(5-aminopyrimidin-2-yl)amino]cyclopentan-1-ol
+BrC1CCCN(CC2CCC2)CC1, 4-bromo-1-(cyclobutylmethyl)azepane
+NCC(CN1CCCCCC1)C1CC1, 3-(azepan-1-yl)-2-cyclopropylpropan-1-amine
+COC(=O)C(C)(O)C(O)CO, methyl 2,3,4-trihydroxy-2-methylbutanoate
+C=CCC(C)C=CCCCC(=C)C, 4,10-dimethylundeca-1,5,10-triene
+CC(N)=Nc1cc(C)ccc1Cl, N'-(2-chloro-5-methylphenyl)ethanimidamide
+CCc1cc2ccc(C#N)nc2s1, 2-ethylthieno[2,3-b]pyridine-6-carbonitrile
+CSCCNCC1CCCc2ccccc21, 2-methylsulfanyl-N-(1,2,3,4-tetrahydronaphthalen-1-ylmethyl)ethanamine
+CCC=CN(CC)N=NC(C)CCC, N-ethyl-N-(pentan-2-yldiazenyl)but-1-en-1-amine
+Cn1cc(Br)cc1CNC1CCC1, N-[(4-bromo-1-methylpyrrol-2-yl)methyl]cyclobutanamine
+CC(C)CSCC(O)c1cnnn1C, 2-(2-methylpropylsulfanyl)-1-(3-methyltriazol-4-yl)ethanol
+[2H]/C(=C/CC=O)CCCCC, (Z)-4-deuterionon-3-enal
+CCN(C)c1ncc(C(C)C)s1, N-ethyl-N-methyl-5-propan-2-yl-1,3-thiazol-2-amine
+CCSCCOc1c(F)cccc1CBr, 1-(bromomethyl)-2-(2-ethylsulfanylethoxy)-3-fluorobenzene
+CCCCCCOc1cccc(C=O)c1, 3-hexoxybenzaldehyde
+CC(CN)CC(N)COC1OCCO1, 5-(1,3-dioxolan-2-yloxy)-2-methylpentane-1,4-diamine
+CCO[C@H]1CCC[C@@H]1I, (1S,2S)-1-ethoxy-2-iodocyclopentane
+CC#CCN(C)Cc1cnc[nH]1, N-(1H-imidazol-5-ylmethyl)-N-methylbut-2-yn-1-amine
+Cc1cc(CO)c(=O)n(C)c1, 3-(hydroxymethyl)-1,5-dimethylpyridin-2-one
+Cc1ccc(SC#CC#CCO)cc1, 5-(4-methylphenyl)sulfanylpenta-2,4-diyn-1-ol
+CC(CN1CCCSCC1)C1CNC1, 4-[2-(azetidin-3-yl)propyl]-1,4-thiazepane
+Cc1ccc(CCC2COCCN2)o1, 3-[2-(5-methylfuran-2-yl)ethyl]morpholine
+Nc1nc(C2CSCCS2)ncc1I, 2-(1,4-dithian-2-yl)-5-iodopyrimidin-4-amine
+Cc1nc(-c2ccccc2)cn1C, 1,2-dimethyl-4-phenylimidazole
+CON(C)C(=O)C1(Cl)CC1, 1-chloro-N-methoxy-N-methylcyclopropane-1-carboxamide
+CS(=O)(=O)C1=CCCC=C1, 2-methylsulfonylcyclohexa-1,3-diene
+Oc1ccccc1CCNC1CCCOC1, 2-[2-(oxan-3-ylamino)ethyl]phenol
+COCc1ccc(F)c(CCN)c1F, 2-[2,6-difluoro-3-(methoxymethyl)phenyl]ethanamine
+CCC[Si](N=C=O)(OC)OC, isocyanato-dimethoxy-propylsilane
+CCC(C)Sc1ccc(C)cc1CO, (2-butan-2-ylsulfanyl-5-methylphenyl)methanol
+FC(Cc1csnn1)C1CCCNC1, 4-(2-fluoro-2-piperidin-3-ylethyl)thiadiazole
+CC#CCNC(CSC)c1ccccc1, N-(2-methylsulfanyl-1-phenylethyl)but-2-yn-1-amine
+CO/C=C/c1cccc(N=O)c1, 1-[(E)-2-methoxyethenyl]-3-nitrosobenzene
+O=c1sc2ccccc2n1CCCBr, 3-(3-bromopropyl)-1,3-benzothiazol-2-one
+COC(=O)CNCc1noc(C)n1, methyl 2-[(5-methyl-1,2,4-oxadiazol-3-yl)methylamino]acetate
+CCn1cc(CCC(C)CCl)cn1, 4-(4-chloro-3-methylbutyl)-1-ethylpyrazole
+CC1CCCCC1(CN)N1CCCC1, (2-methyl-1-pyrrolidin-1-ylcyclohexyl)methanamine
+CSCc1cc(-c2cccs2)on1, 3-(methylsulfanylmethyl)-5-thiophen-2-yl-1,2-oxazole
+CCc1cc2c(SC)csc2cc1N, 5-ethyl-3-methylsulfanyl-1-benzothiophen-6-amine
+CC1(C)CNc2c(F)cccc21, 7-fluoro-3,3-dimethyl-1,2-dihydroindole
+Cc1ccncc1-c1ncsc1C=O, 4-(4-methylpyridin-3-yl)-1,3-thiazole-5-carbaldehyde
+CC(C)C(C)C1(N)CCOCC1, 4-(3-methylbutan-2-yl)oxan-4-amine
+CCOC(C)C(NC)c1cnnn1C, 2-ethoxy-N-methyl-1-(3-methyltriazol-4-yl)propan-1-amine
+CCCC1C=CC(O)C(CCC)C1, 4,6-dipropylcyclohex-2-en-1-ol
+CO/N=C(/C)CC(C)N(C)C, (4Z)-4-methoxyimino-N,N-dimethylpentan-2-amine
+NCc1c(Cl)cccc1OC1CC1, (2-chloro-6-cyclopropyloxyphenyl)methanamine
+CC(=O)NNC(CCO)C(=O)O, 2-(2-acetylhydrazinyl)-4-hydroxybutanoic acid
+COc1cccc(C)c1NC(N)=S, (2-methoxy-6-methylphenyl)thiourea
+BrCc1noc2ccc(Br)cc12, 5-bromo-3-(bromomethyl)-1,2-benzoxazole
+C[C@H](O)CNC(=O)CCCl, 3-chloro-N-[(2S)-2-hydroxypropyl]propanamide
+CCC(C)C(CSc1nncs1)NC, N,3-dimethyl-1-(1,3,4-thiadiazol-2-ylsulfanyl)pentan-2-amine
+CCC(Cl)CCNCCCC1CCCO1, 3-chloro-N-[3-(oxolan-2-yl)propyl]pentan-1-amine
+c1cc(CNC2=NCCCN2)co1, N-(furan-3-ylmethyl)-1,4,5,6-tetrahydropyrimidin-2-amine
+Cn1c(Br)cnc1-c1cccs1, 5-bromo-1-methyl-2-thiophen-2-ylimidazole
+CC(C)(C)C1OC2CCCC1C2, 7-tert-butyl-6-oxabicyclo[3.2.1]octane
+CCC(C)CCOC(C)(CC)CCO, 3-methyl-3-(3-methylpentoxy)pentan-1-ol
+CCc1sc2cccc(Cl)c2c1N, 4-chloro-2-ethyl-1-benzothiophen-3-amine
+Oc1cc(Cl)cc(Cl)c1OCF, 3,5-dichloro-2-(fluoromethoxy)phenol
+C#CCO[P+]12OCCN1CCO2, 8-prop-2-ynoxy-2,3,5,6-tetrahydro-[1,3,2]oxazaphospholo[2,3-b][1,3,2]oxazaphosphol-8-ium
+CCCC1CCNC1COc1cccnc1, 3-[(3-propylpyrrolidin-2-yl)methoxy]pyridine
+CNC(CSc1nccn1C)C(C)C, N,3-dimethyl-1-(1-methylimidazol-2-yl)sulfanylbutan-2-amine
+C/C=C/CC(C)(C)C(=O)O, (E)-2,2-dimethylhex-4-enoic acid
+Cc1cc(OCCO)c(C#N)cn1, 4-(2-hydroxyethoxy)-6-methylpyridine-3-carbonitrile
+COCCOCCC1CC(C)CCC1Br, 1-bromo-2-[2-(2-methoxyethoxy)ethyl]-4-methylcyclohexane
+CC=C([Si]Cl)c1ccccc1, chloro(1-phenylprop-1-enyl)silicon
+CCC(C)CC1NCC12CCCCC2, 3-(2-methylbutyl)-2-azaspiro[3.5]nonane
+Cl/C=C(/Cl)OC1CCCCC1, [(E)-1,2-dichloroethenoxy]cyclohexane
+Cc1ncc2c(n1)c(C)nn2N, 3,5-dimethylpyrazolo[4,3-d]pyrimidin-1-amine
+CCCc1nc2occc2c[nH+]1, 2-propylfuro[2,3-d]pyrimidin-3-ium
+CC1COCCC1C(N)c1ccco1, furan-2-yl-(3-methyloxan-4-yl)methanamine
+Cc1cn(CCC2CCCO2)nc1I, 3-iodo-4-methyl-1-[2-(oxolan-2-yl)ethyl]pyrazole
+Cc1csc(NC2(C)CNC2)n1, 4-methyl-N-(3-methylazetidin-3-yl)-1,3-thiazol-2-amine
+CN(C#N)C(=O)c1ccnn1C, N-cyano-N,2-dimethylpyrazole-3-carboxamide
+C#CC(=O)NCC1CCN(C)C1, N-[(1-methylpyrrolidin-3-yl)methyl]prop-2-ynamide
+CCN(C)N=C1CC2(CC2)C1, N-methyl-N-(spiro[2.3]hexan-5-ylideneamino)ethanamine
+CCN=C(N)NC1COCC1(C)C, 1-(4,4-dimethyloxolan-3-yl)-2-ethylguanidine
+CC(=O)C(C(C)=O)C1CC1, 3-cyclopropylpentane-2,4-dione
+O=C1CC(c2ccccc2O)NO1, 3-(2-hydroxyphenyl)-1,2-oxazolidin-5-one
+c1ccc(CSC2CCCNC2)nc1, 2-(piperidin-3-ylsulfanylmethyl)pyridine
+CC1COCCN1CCOC1CCNCC1, 3-methyl-4-(2-piperidin-4-yloxyethyl)morpholine
+CCSCCCOc1ccc(C)nc1CN, [3-(3-ethylsulfanylpropoxy)-6-methylpyridin-2-yl]methanamine
+COC(C=O)c1c(C)cccc1C, 2-(2,6-dimethylphenyl)-2-methoxyacetaldehyde
+C=NC(=O)OCC1CCC(N)O1, (5-aminooxolan-2-yl)methyl N-methylidenecarbamate
+CCC(C)CC(O)C=CC(C)=O, 5-hydroxy-7-methylnon-3-en-2-one
+Cn1ccc(NC2CC2N)cc1=O, 4-[(2-aminocyclopropyl)amino]-1-methylpyridin-2-one
+NC(=O)OCC(=O)NC1COC1, [2-(oxetan-3-ylamino)-2-oxoethyl] carbamate
+CSC1(C=C(C)C(C)O)CC1, 3-methyl-4-(1-methylsulfanylcyclopropyl)but-3-en-2-ol
+OC1CC(O)C2(O)NC1CC2O, 8-azabicyclo[3.2.1]octane-1,2,4,7-tetrol
+Nc1ccc(F)cc1NCCCCCCO, 6-(2-amino-5-fluoroanilino)hexan-1-ol
+CC1=CCC(C(O)C(C)F)O1, 2-fluoro-1-(5-methyl-2,3-dihydrofuran-2-yl)propan-1-ol
+Brc1ncc(CN2CCSCC2)s1, 4-[(2-bromo-1,3-thiazol-5-yl)methyl]thiomorpholine
+C1CNC(SCC2CCOCC2)=N1, 2-(oxan-4-ylmethylsulfanyl)-4,5-dihydro-1H-imidazole
+O=C(c1ccns1)c1sccc1F, (3-fluorothiophen-2-yl)-(1,2-thiazol-5-yl)methanone
+C1=CNCC(n2cccc2)C=C1, 3-pyrrol-1-yl-2,3-dihydro-1H-azepine
+COC(=O)C1=CCC(CCO)S1, methyl 2-(2-hydroxyethyl)-2,3-dihydrothiophene-5-carboxylate
+Nc1ccc(Br)c(N=C=O)c1, 4-bromo-3-isocyanatoaniline
+N#CCOc1ccc(B(O)O)cc1, [4-(cyanomethoxy)phenyl]boronic acid
+O=C(CO)Oc1cncc(Br)c1, (5-bromopyridin-3-yl) 2-hydroxyacetate
+Cc1c(C(F)F)cnc(N)c1F, 5-(difluoromethyl)-3-fluoro-4-methylpyridin-2-amine
+Cc1cnn(CC(N)C2CC2)c1, 1-cyclopropyl-2-(4-methylpyrazol-1-yl)ethanamine
+CC1=C(C(C)O)C(=O)NC1, 4-(1-hydroxyethyl)-3-methyl-1,2-dihydropyrrol-5-one
+N#CCCNc1nnc(C2CC2)s1, 3-[(5-cyclopropyl-1,3,4-thiadiazol-2-yl)amino]propanenitrile
+CCn1nc(C(=O)O)ccc1=O, 1-ethyl-6-oxopyridazine-3-carboxylic acid
+Brc1nnc(Sc2cnccn2)s1, 2-bromo-5-pyrazin-2-ylsulfanyl-1,3,4-thiadiazole
+CC#C/C=C(/C)[Te]CCCC, (Z)-2-butyltellanylhex-2-en-4-yne
+CC1CC2C[C@@H](C)C1O2, (2R)-2,6-dimethyl-7-oxabicyclo[2.2.1]heptane
+C=CCNC(=O)CNCc1cscn1, N-prop-2-enyl-2-(1,3-thiazol-4-ylmethylamino)acetamide
+CC#CCCNCc1ccc(Cl)cc1, N-[(4-chlorophenyl)methyl]pent-3-yn-1-amine
+CCNC(=O)NCC1CCC(C)O1, 1-ethyl-3-[(5-methyloxolan-2-yl)methyl]urea
+CCSc1ccc(OC)c(C=O)c1, 5-ethylsulfanyl-2-methoxybenzaldehyde
+CCC(O)C1(CN)CCCCCCC1, 1-[1-(aminomethyl)cyclooctyl]propan-1-ol
+NC1=CN(Cl)C(Cl)=CN1N, 4,5-dichloropyrazine-1,2-diamine
+CCC(=O)OOOC(=O)C(C)C, propanoyloxy 2-methylpropaneperoxoate
+CCc1cc(SC)c2sccc2c1N, 5-ethyl-7-methylsulfanyl-1-benzothiophen-4-amine
+Cc1cc(F)c(O)c(N=O)c1, 2-fluoro-4-methyl-6-nitrosophenol
+Cc1c(NCc2ccoc2)cnn1C, N-(furan-3-ylmethyl)-1,5-dimethylpyrazol-4-amine
+CCCOCCOC(C)CNC(CC)CC, N-[2-(2-propoxyethoxy)propyl]pentan-3-amine
+OCCN/N=C1/CCc2ccsc21, 2-[(2Z)-2-(4,5-dihydrocyclopenta[b]thiophen-6-ylidene)hydrazinyl]ethanol
+CC(=O)Nc1ccc(CCN)cc1, N-[4-(2-aminoethyl)phenyl]acetamide
+C#CC(C)NC(=S)NC1CCC1, 1-but-3-yn-2-yl-3-cyclobutylthiourea
+O=c1[nH]cc(Cl)cc1CCl, 5-chloro-3-(chloromethyl)-1H-pyridin-2-one
+CC1CCC/C1=N\NC1CCCC1, N-[(E)-(2-methylcyclopentylidene)amino]cyclopentanamine
+CN(CC(F)F)CC1(N)CCC1, 1-[[2,2-difluoroethyl(methyl)amino]methyl]cyclobutan-1-amine
+CCOc1cc(C)c(N=O)cc1F, 1-ethoxy-2-fluoro-5-methyl-4-nitrosobenzene
+CCC(N)CS(=O)(=O)CCSC, 1-(2-methylsulfanylethylsulfonyl)butan-2-amine
+CCOC(=N)c1ccc(NC)cc1, ethyl 4-(methylamino)benzenecarboximidate
+Cc1ccc([C@H]2CN2)cc1, (2S)-2-(4-methylphenyl)aziridine
+CC(CNC1CCCSC1C)C1CC1, N-(2-cyclopropylpropyl)-2-methylthian-3-amine
+CN1CCN(Cc2ncccn2)CC1, 2-[(4-methylpiperazin-1-yl)methyl]pyrimidine
+CN1CCCOCCCN(C)CCOCC1, 4,12-dimethyl-1,8-dioxa-4,12-diazacyclotetradecane
+CC(O)CNc1ncnc2sccc12, 1-(thieno[2,3-d]pyrimidin-4-ylamino)propan-2-ol
+CN(C)Cc1cc(OCCCO)cs1, 3-[5-[(dimethylamino)methyl]thiophen-3-yl]oxypropan-1-ol
+CCC(F)(F)c1ccc(C)cc1, 1-(1,1-difluoropropyl)-4-methylbenzene
+CC(=O)c1cc(N)nc(F)c1, 1-(2-amino-6-fluoropyridin-4-yl)ethanone
+Cc1cc2ccn(CCO)c2cc1F, 2-(6-fluoro-5-methylindol-1-yl)ethanol
+O=C1CC(c2ccccc2)N1CO, 1-(hydroxymethyl)-4-phenylazetidin-2-one
+CCNC1CCC(C(C)CCOC)C1, N-ethyl-3-(4-methoxybutan-2-yl)cyclopentan-1-amine
+COc1cc(CO)cc(OC)c1Br, (4-bromo-3,5-dimethoxyphenyl)methanol
+[O-][n+]1ccc2ccoc2c1, 6-oxidofuro[2,3-c]pyridin-6-ium
+C#CCNC(=S)Nc1ccsc1Cl, 1-(2-chlorothiophen-3-yl)-3-prop-2-ynylthiourea
+CN1C(=O)CCC1c1ccccc1, 1-methyl-5-phenylpyrrolidin-2-one
+CCc1nsc(SC2CNCC2O)n1, 4-[(3-ethyl-1,2,4-thiadiazol-5-yl)sulfanyl]pyrrolidin-3-ol
+COCCONC(=O)c1ccccc1F, 2-fluoro-N-(2-methoxyethoxy)benzamide
+N#Cc1cccn1CCCC(=O)NN, 4-(2-cyanopyrrol-1-yl)butanehydrazide
+CCC(CC)C(=O)C(C)(C)N, 2-amino-4-ethyl-2-methylhexan-3-one
+NNc1ccc(O)c(C(F)F)c1, 2-(difluoromethyl)-4-hydrazinylphenol
+Cc1csc2c(C)c(Cl)oc12, 2-chloro-3,6-dimethylthieno[3,2-b]furan
+CCCc1c(F)cnc2ccccc12, 3-fluoro-4-propylquinoline
+CC(=O)C(O)=CN1CCOCC1, 3-hydroxy-4-morpholin-4-ylbut-3-en-2-one
+CC1CNCC1C(=O)CC(=O)O, 3-(4-methylpyrrolidin-3-yl)-3-oxopropanoic acid
+CC1CCC(NCc2nncn2C)C1, 3-methyl-N-[(4-methyl-1,2,4-triazol-3-yl)methyl]cyclopentan-1-amine
+CNC(=O)CCCNCCCCOCCOC, 4-[4-(2-methoxyethoxy)butylamino]-N-methylbutanamide
+CC1=CC=C(C=O)C(=S)C1, 4-methyl-6-sulfanylidenecyclohexa-1,3-diene-1-carbaldehyde
+CN(C)N(C)[B-](F)(F)F, [dimethylamino(methyl)amino]-trifluoroboranuide
+CCC(CC)(CC)NC(C)CCCO, 4-(3-ethylpentan-3-ylamino)pentan-1-ol
+CCOC(C)(P=O)c1cnccn1, 2-(1-ethoxy-1-phosphorosoethyl)pyrazine
+CC1(NCCC2CCCNC2)CCC1, 1-methyl-N-(2-piperidin-3-ylethyl)cyclobutan-1-amine
+CC(N)CCc1ccc(N)cc1Cl, 4-(3-aminobutyl)-3-chloroaniline
+CCCC1(CNC(C)CC)CCNC1, N-[(3-propylpyrrolidin-3-yl)methyl]butan-2-amine
+Cc1nn(C)c2c1C(C)NCC2, 1,3,4-trimethyl-4,5,6,7-tetrahydropyrazolo[4,3-c]pyridine
+CCC(COC)NCc1ccccc1OC, 1-methoxy-N-[(2-methoxyphenyl)methyl]butan-2-amine
+Cc1ccc(C(Cl)=CC=O)o1, 3-chloro-3-(5-methylfuran-2-yl)prop-2-enal
+CCC1Oc2c(F)cccc2C1=O, 2-ethyl-7-fluoro-1-benzofuran-3-one
+OCc1cc(C(F)F)cnc1CCl, [2-(chloromethyl)-5-(difluoromethyl)pyridin-3-yl]methanol
+OOOOOOOOc1cccc(Cl)c1, 1-chloro-3-hydroperoxyperoxyperoxyperoxybenzene
+Cc1ccc(NCC(=O)O)cc1O, 2-(3-hydroxy-4-methylanilino)acetic acid
+C[C@H]1C[C@H](CO)CO1, [(3R,5S)-5-methyloxolan-3-yl]methanol
+N#Cc1cc(N)c2sccc2c1F, 7-amino-4-fluoro-1-benzothiophene-5-carbonitrile
+NCC(Oc1ccccc1)C(=O)O, 3-amino-2-phenoxypropanoic acid
+Cc1cc(Cl)cc(CCON)c1O, 2-(2-aminooxyethyl)-4-chloro-6-methylphenol
+NCCSc1nncn1-c1ccccc1, 2-[(4-phenyl-1,2,4-triazol-3-yl)sulfanyl]ethanamine
+CCCC(N)c1cnc(Cl)cc1I, 1-(6-chloro-4-iodopyridin-3-yl)butan-1-amine
+CC(CN)N1CC2(CCCC2)C1, 2-(2-azaspiro[3.4]octan-2-yl)propan-1-amine
+CC1CC(C)CN(CC=CCS)C1, 4-(3,5-dimethylpiperidin-1-yl)but-2-ene-1-thiol
+CNC(=O)NC1Cc2ccccc21, 1-(7-bicyclo[4.2.0]octa-1,3,5-trienyl)-3-methylurea
+[2H]Oc1cccc(O[2H])c1, 1,3-dideuteriooxybenzene
+C=CCCC(O)C1(CC)CCCC1, 1-(1-ethylcyclopentyl)pent-4-en-1-ol
+Cc1occc1CNC1CSC(C)C1, 5-methyl-N-[(2-methylfuran-3-yl)methyl]thiolan-3-amine
+Nc1c(F)ccc2c(O)csc12, 7-amino-6-fluoro-1-benzothiophen-3-ol
+Cn1ccnc1C(=O)c1cncs1, (1-methylimidazol-2-yl)-(1,3-thiazol-5-yl)methanone
+Cc1cn2ccccc2c1C(N)=O, 2-methylindolizine-1-carboxamide
+Cc1ccc2ccc(CBr)cc2c1, 2-(bromomethyl)-7-methylnaphthalene
+O=C1c2cc(Br)cn2CCN1P, 7-bromo-2-phosphanyl-3,4-dihydropyrrolo[1,2-a]pyrazin-1-one
+CCc1cc(F)c2sccc2c1OC, 5-ethyl-7-fluoro-4-methoxy-1-benzothiophene
+CCCC(COC)NC(=S)NCCOC, 1-(2-methoxyethyl)-3-(1-methoxypentan-2-yl)thiourea
+N#CCc1ncc(C2CC2)cc1F, 2-(5-cyclopropyl-3-fluoropyridin-2-yl)acetonitrile
+Cn1cnc(=O)n1CC1OCCO1, 2-(1,3-dioxolan-2-ylmethyl)-1-methyl-1,2,4-triazol-3-one
+Cc1cc(NCc2ccnn2C)no1, 5-methyl-N-[(2-methylpyrazol-3-yl)methyl]-1,2-oxazol-3-amine
+c1cc(-c2cocn2)[nH]n1, 4-(1H-pyrazol-5-yl)-1,3-oxazole
+CCOCCN1CCNC[C@@H]1CC, (2S)-1-(2-ethoxyethyl)-2-ethylpiperazine
+CC1OCCC1NC1CCCCCC1CO, [2-[(2-methyloxolan-3-yl)amino]cycloheptyl]methanol
+CCSc1cc2c(cc1Br)NCC2, 6-bromo-5-ethylsulfanyl-2,3-dihydro-1H-indole
+CC(=O)Oc1ccn[nH]c1=O, (6-oxo-1H-pyridazin-5-yl) acetate
+CCCC(O)C(Cl)=C(Cl)Cl, 1,1,2-trichlorohex-1-en-3-ol
+CC(O)C[N+]1(C)CCOCC1, 1-(4-methylmorpholin-4-ium-4-yl)propan-2-ol
+CCNCC(C)CN1CCCCCC1=O, 1-[3-(ethylamino)-2-methylpropyl]azepan-2-one
+N[C@H](CO)c1coc(F)c1, (2S)-2-amino-2-(5-fluorofuran-3-yl)ethanol
+CCCCCCCCC(=O)c1ccoc1, 1-(furan-3-yl)nonan-1-one
+Ic1cnc(OCC2CCCO2)nc1, 5-iodo-2-(oxolan-2-ylmethoxy)pyrimidine
+CC1CC(=O)C(C(=O)O)C1, 4-methyl-2-oxocyclopentane-1-carboxylic acid
+CC(C)(N)CNC(C)(C)C#N, 2-[(2-amino-2-methylpropyl)amino]-2-methylpropanenitrile
+NCC1CC(C2CCOCC2)=NO1, [3-(oxan-4-yl)-4,5-dihydro-1,2-oxazol-5-yl]methanamine
+CCN(CC)c1cccc(CCl)c1, 3-(chloromethyl)-N,N-diethylaniline
+COC(C)C=NNc1cnn(C)c1, N-(2-methoxypropylideneamino)-1-methylpyrazol-4-amine
+CC(C)Nc1ccccc(=O)c1O, 2-hydroxy-3-(propan-2-ylamino)cyclohepta-2,4,6-trien-1-one
+O=C(O)C1CC2(CCC2)CN1, 6-azaspiro[3.4]octane-7-carboxylic acid
+CC(Cc1cccs1)NC(=S)NN, 1-amino-3-(1-thiophen-2-ylpropan-2-yl)thiourea
+CSCCC(O)Cc1ccc(C)cc1, 1-(4-methylphenyl)-4-methylsulfanylbutan-2-ol
+NNC(=O)c1ccc(Cl)cc1S, 4-chloro-2-sulfanylbenzohydrazide
+CCOC(C)c1ncc(CCl)cn1, 5-(chloromethyl)-2-(1-ethoxyethyl)pyrimidine
+CCCCC(CC)COC(CC)CCCC, 3-(heptan-3-yloxymethyl)heptane
+CCC(=O)C1(O)CCC=C1CO, 1-[1-hydroxy-2-(hydroxymethyl)cyclopent-2-en-1-yl]propan-1-one
+C=CCCCC(N)C1(C)CCCO1, 1-(2-methyloxolan-2-yl)hex-5-en-1-amine
+CC(=O)OC(C)CN1CCOCC1, 1-morpholin-4-ylpropan-2-yl acetate
+CNC(c1ccncc1C)C1CCC1, 1-cyclobutyl-N-methyl-1-(3-methylpyridin-4-yl)methanamine
+CCCC(CN)N(C)C(C)CCSC, 2-N-methyl-2-N-(4-methylsulfanylbutan-2-yl)pentane-1,2-diamine
+C#CC(C)O/C=C/C(=O)OC, methyl (E)-3-but-3-yn-2-yloxyprop-2-enoate
+C[N+]1(C)CC(=O)NC1=S, 1,1-dimethyl-2-sulfanylideneimidazolidin-1-ium-4-one
+BrCC1COCCN1CC1CCCCC1, 3-(bromomethyl)-4-(cyclohexylmethyl)morpholine
+CNCC1(C(C)CCOC)CCCC1, 1-[1-(4-methoxybutan-2-yl)cyclopentyl]-N-methylmethanamine
+Clc1cncc(C2=NCCN2)n1, 2-chloro-6-(4,5-dihydro-1H-imidazol-2-yl)pyrazine
+NNC(=O)CCCSc1ncccc1N, 4-(3-aminopyridin-2-yl)sulfanylbutanehydrazide
+COCCC(N)(CO)c1ccccc1, 2-amino-4-methoxy-2-phenylbutan-1-ol
+C=C(Cl)CN1CCC(=C)CC1, 1-(2-chloroprop-2-enyl)-4-methylidenepiperidine
+C=Cc1c(O)ccc2ccccc12, 1-ethenylnaphthalen-2-ol
+CCC(NC(N)=O)C1CCOCC1, 1-(oxan-4-yl)propylurea
+COc1ccc2sc(N)cc2c1Br, 4-bromo-5-methoxy-1-benzothiophen-2-amine
+CCCCCC(C)(C)c1ncccn1, 2-(2-methylheptan-2-yl)pyrimidine
+O=C(O)C1=C2OCCC2CCC1, 2,3,3a,4,5,6-hexahydro-1-benzofuran-7-carboxylic acid
+CC1CNC(Cc2ccccc2)C1C, 2-benzyl-3,4-dimethylpyrrolidine
+Cn1ccc(C2NCCCC2CN)c1, [2-(1-methylpyrrol-3-yl)piperidin-3-yl]methanamine
+CC1C=CC(CC(=O)O)=CC1, 2-(4-methylcyclohexa-1,5-dien-1-yl)acetic acid
+O=CC1(CO)CC1c1ccccc1, 1-(hydroxymethyl)-2-phenylcyclopropane-1-carbaldehyde
+Fc1nc(F)c(F)c(Cl)c1F, 4-chloro-2,3,5,6-tetrafluoropyridine
+O=C1CC(c2ccccc2)CNN1, 5-phenyldiazinan-3-one
+CNC(=O)CC1=CCC=CC=C1, 2-cyclohepta-1,4,6-trien-1-yl-N-methylacetamide
+CONC(=O)c1cccn1C1CC1, 1-cyclopropyl-N-methoxypyrrole-2-carboxamide
+O=Cc1cnc(CC(=O)O)nc1, 2-(5-formylpyrimidin-2-yl)acetic acid
+O=C(O)CCC(=O)OCCCCCO, 4-(5-hydroxypentoxy)-4-oxobutanoic acid
+CC1(C)CC=C2CCCC=C2O1, 2,2-dimethyl-3,5,6,7-tetrahydrochromene
+CCC(C)N1CCOc2ccccc21, 4-butan-2-yl-2,3-dihydro-1,4-benzoxazine
+Cn1ncc(C(O)C2CNC2)n1, azetidin-3-yl-(2-methyltriazol-4-yl)methanol
+CCOC(=O)C1=C(F)CNCC1, ethyl 5-fluoro-1,2,3,6-tetrahydropyridine-4-carboxylate
+C[C@@H](CO)N(CCO)CCO, (2S)-2-[bis(2-hydroxyethyl)amino]propan-1-ol
+C=C[C@H](O)CC(=O)OCC, ethyl (3R)-3-hydroxypent-4-enoate
+Clc1ccc(CN(Cl)Cl)cc1, N,N-dichloro-1-(4-chlorophenyl)methanamine
+C=CC(=O)C(C)CN1CCCC1, 4-methyl-5-pyrrolidin-1-ylpent-1-en-3-one
+CCCOc1c(C)cc(Br)cc1C, 5-bromo-1,3-dimethyl-2-propoxybenzene
+COCCCNC(=O)CNC(C)CSC, N-(3-methoxypropyl)-2-(1-methylsulfanylpropan-2-ylamino)acetamide
+O=C(c1ccccn1)c1ccns1, pyridin-2-yl(1,2-thiazol-5-yl)methanone
+CC(=O)C1(O)CCCCOC1=O, 3-acetyl-3-hydroxyoxepan-2-one
+CC(C)=CCC=C(C)CC=CCO, 5,9-dimethyldeca-2,5,8-trien-1-ol
+COCC(NC(C)CCSC)C1CC1, N-(1-cyclopropyl-2-methoxyethyl)-4-methylsulfanylbutan-2-amine
+CN(C(=O)O)C(CO)C1CC1, (1-cyclopropyl-2-hydroxyethyl)-methylcarbamic acid
+COc1ccncc1N(C)C(C)=O, N-(4-methoxypyridin-3-yl)-N-methylacetamide
+CSC(C)CNC(C)CC1CCCO1, N-(2-methylsulfanylpropyl)-1-(oxolan-2-yl)propan-2-amine
+CCC(CN)CC(=O)c1cccs1, 3-(aminomethyl)-1-thiophen-2-ylpentan-1-one
+CSCCC(C)NC(=O)C(C)CN, 3-amino-2-methyl-N-(4-methylsulfanylbutan-2-yl)propanamide
+CCCNC(c1cscn1)C(C)CC, 2-methyl-N-propyl-1-(1,3-thiazol-4-yl)butan-1-amine
+Cc1cc(C=O)c(CCN)cc1F, 2-(2-aminoethyl)-4-fluoro-5-methylbenzaldehyde
+CC1CCC(NCC2CCCCO2)C1, 3-methyl-N-(oxan-2-ylmethyl)cyclopentan-1-amine
+Cc1cc2c(cc1CNN)OCCO2, (7-methyl-2,3-dihydro-1,4-benzodioxin-6-yl)methylhydrazine
+CC1(CCN)COc2ccccc2O1, 2-(3-methyl-2H-1,4-benzodioxin-3-yl)ethanamine
+COC(C)CC(=O)Cc1ccsc1, 4-methoxy-1-thiophen-3-ylpentan-2-one
+N#CC1(N2CCCCC2)CCOC1, 3-piperidin-1-yloxolane-3-carbonitrile
+Cc1ccoc1CNc1cn(C)nn1, 1-methyl-N-[(3-methylfuran-2-yl)methyl]triazol-4-amine
+CN(C)C1CCN(CCCC#N)C1, 4-[3-(dimethylamino)pyrrolidin-1-yl]butanenitrile
+CSO[Si]CCCCP(C)(O)=S, 4-[hydroxy(methyl)phosphinothioyl]butyl-methylsulfanyloxysilicon
+CC1CC(=O)N(CCCCCS)C1, 4-methyl-1-(5-sulfanylpentyl)pyrrolidin-2-one
+CC1CCC(NC2C=CCCC2)C1, N-(3-methylcyclopentyl)cyclohex-2-en-1-amine
+ClCc1cc(CC2CCCC2)no1, 5-(chloromethyl)-3-(cyclopentylmethyl)-1,2-oxazole
+Cn1ncc(Cn2cnnc2CO)n1, [4-[(2-methyltriazol-4-yl)methyl]-1,2,4-triazol-3-yl]methanol
+N#Cc1ccccc1N1CSCC1=O, 2-(4-oxo-1,3-thiazolidin-3-yl)benzonitrile
+CC(C)C1CCC(I)(CO)CC1, (1-iodo-4-propan-2-ylcyclohexyl)methanol
+Nc1cccc(Oc2ccccc2)n1, 6-phenoxypyridin-2-amine
+CC1(c2ccc(Br)cn2)CC1, 5-bromo-2-(1-methylcyclopropyl)pyridine
+CCO[Si](CC)(CCCN)OCC, 3-[diethoxy(ethyl)silyl]propan-1-amine
+CCCC(CC(=O)CN)C(=O)O, 5-amino-4-oxo-2-propylpentanoic acid
+CCCN(C=CC(=O)O)C1CC1, 3-[cyclopropyl(propyl)amino]prop-2-enoic acid
+O=S(=O)(O)N1CCOC1CCl, 2-(chloromethyl)-1,3-oxazolidine-3-sulfonic acid
+C=C(CCl)C[Si](C)(C)C, 2-(chloromethyl)prop-2-enyl-trimethylsilane
+CCCN(CCOC)c1nc(N)cs1, 2-N-(2-methoxyethyl)-2-N-propyl-1,3-thiazole-2,4-diamine
+N#COSCc1ccccc1C(=O)O, 2-(cyanatosulfanylmethyl)benzoic acid
+CCC(COC)NCCc1ccccc1F, N-[2-(2-fluorophenyl)ethyl]-1-methoxybutan-2-amine
+CCCC(C)N1CCN(CCC)CC1, 1-pentan-2-yl-4-propylpiperazine
+Brc1ccc(N2CCCCN2)nc1, 1-(5-bromopyridin-2-yl)diazinane
+CSC(C)(C)Cn1nnnc1CCl, 5-(chloromethyl)-1-(2-methyl-2-methylsulfanylpropyl)tetrazole
+CCCNC1(C#N)CCC(C)NC1, 6-methyl-3-(propylamino)piperidine-3-carbonitrile
+O=C(Cl)/C=C/C1CCNCC1, (E)-3-piperidin-4-ylprop-2-enoyl chloride
+C=CC(O)C(N)c1ccccc1N, 1-amino-1-(2-aminophenyl)but-3-en-2-ol
+C=C(C)C1CCC2CCCC2CC1, 6-prop-1-en-2-yl-1,2,3,3a,4,5,6,7,8,8a-decahydroazulene
+CC(O)C(C)SCCC1CCNCC1, 3-(2-piperidin-4-ylethylsulfanyl)butan-2-ol
+Cc1sc2cccc(C#N)c2c1S, 2-methyl-3-sulfanyl-1-benzothiophene-4-carbonitrile
+Cc1ccsc1CNc1cnccc1CO, [3-[(3-methylthiophen-2-yl)methylamino]pyridin-4-yl]methanol
+C1CC23CCC(C1)(CC2)C3, tricyclo[3.2.2.11,5]decane
+Clc1cc(-c2ccccc2)on1, 3-chloro-5-phenyl-1,2-oxazole
+CCn1ccc(C(C)NCCOC)c1, 1-(1-ethylpyrrol-3-yl)-N-(2-methoxyethyl)ethanamine
+COCCNC(=S)NCCc1cscn1, 1-(2-methoxyethyl)-3-[2-(1,3-thiazol-4-yl)ethyl]thiourea
+CSC(C)CNC(=O)CC(C)=O, N-(2-methylsulfanylpropyl)-3-oxobutanamide
+CC1CCOC1C(O)Cc1ccco1, 2-(furan-2-yl)-1-(3-methyloxolan-2-yl)ethanol
+O=C1NC(=O)C2N=CCCC12, 3,4,4a,7a-tetrahydropyrrolo[3,4-b]pyridine-5,7-dione
+CN(C)c1ncccc1NC(N)=S, [2-(dimethylamino)pyridin-3-yl]thiourea
+OC1OCCC1C(O)C1CCCCC1, 3-[cyclohexyl(hydroxy)methyl]oxolan-2-ol
+CSCC(=O)N(C)C(C)CC#N, N-(1-cyanopropan-2-yl)-N-methyl-2-methylsulfanylacetamide
+CNCCOCc1ccc(Br)cc1Cl, 2-[(4-bromo-2-chlorophenyl)methoxy]-N-methylethanamine
+OCCCNC(=S)CCc1ccccc1, N-(3-hydroxypropyl)-3-phenylpropanethioamide
+O=C(OC1CCC1)C1CCOCC1, cyclobutyl oxane-4-carboxylate
+CCCn1ccnc1C1CCC(O)C1, 3-(1-propylimidazol-2-yl)cyclopentan-1-ol
+ONc1c(F)c(F)cc(F)c1F, N-(2,3,5,6-tetrafluorophenyl)hydroxylamine
+OC(CF)CN1CCC(F)(F)C1, 1-(3,3-difluoropyrrolidin-1-yl)-3-fluoropropan-2-ol
+C=COC(=O)CCCC/C=C/CC, ethenyl (E)-non-6-enoate
+CCCC(=NC)NS(N)(=O)=O, N'-methyl-N-sulfamoylbutanimidamide
+OC(Cc1ccco1)C1CCCSC1, 2-(furan-2-yl)-1-(thian-3-yl)ethanol
+N#CC(N)c1cc(F)ccc1Cl, 2-amino-2-(2-chloro-5-fluorophenyl)acetonitrile
+CCCn1nccc1Cc1cnccc1N, 3-[(2-propylpyrazol-3-yl)methyl]pyridin-4-amine
+NCc1cncnc1OCc1ccccc1, (4-phenylmethoxypyrimidin-5-yl)methanamine
+C=COCCCNC(=O)C1CCNC1, N-(3-ethenoxypropyl)pyrrolidine-3-carboxamide
+N#Cc1ncn(CN2CCCC2)n1, 1-(pyrrolidin-1-ylmethyl)-1,2,4-triazole-3-carbonitrile
+C#CCCCN1CC2CCC(C1)O2, 3-pent-4-ynyl-8-oxa-3-azabicyclo[3.2.1]octane
+Cc1ncccc1CN1CCCCC1CO, [1-[(2-methylpyridin-3-yl)methyl]piperidin-2-yl]methanol
+Cc1nc(CN(C)CC#N)sc1C, 2-[(4,5-dimethyl-1,3-thiazol-2-yl)methyl-methylamino]acetonitrile
+COCc1cc2cc(CN)ccc2s1, [2-(methoxymethyl)-1-benzothiophen-5-yl]methanamine
+O=C(O)C1CSCC#CCNCCN1, 1-thia-4,7-diazacycloundec-9-yne-3-carboxylic acid
+COCCOCCCCNCCOCCOCCOC, 4-(2-methoxyethoxy)-N-[2-[2-(2-methoxyethoxy)ethoxy]ethyl]butan-1-amine
+CCOc1nc2ccccc2nc1C#N, 3-ethoxyquinoxaline-2-carbonitrile
+CCc1cc2ccsc2c(Cl)c1F, 7-chloro-5-ethyl-6-fluoro-1-benzothiophene
+Cc1cnc(C(C)N)c(Br)c1, 1-(3-bromo-5-methylpyridin-2-yl)ethanamine
+C=C(Br)CN1CCSC(C)CC1, 4-(2-bromoprop-2-enyl)-7-methyl-1,4-thiazepane
+Oc1ccc2sc(F)cc2c1CCl, 4-(chloromethyl)-2-fluoro-1-benzothiophen-5-ol
+NNc1nnc(COC2CCCC2)s1, [5-(cyclopentyloxymethyl)-1,3,4-thiadiazol-2-yl]hydrazine
+Cc1cc2ocnc2cc1C(=O)O, 6-methyl-1,3-benzoxazole-5-carboxylic acid
+CCOCC(C)NC(C)C(OC)OC, N-(1-ethoxypropan-2-yl)-1,1-dimethoxypropan-2-amine
+CC(C)CNC(=O)Nc1ccon1, 1-(2-methylpropyl)-3-(1,2-oxazol-3-yl)urea
+CCC1CCc2nc3scnn3c2C1, 7-ethyl-5,6,7,8-tetrahydro-[1,3,4]thiadiazolo[3,2-a]benzimidazole
+CC1(C(O)C2CNC2)CCCS1, azetidin-3-yl-(2-methylthiolan-2-yl)methanol
+Cc1ccc2c(c1I)CCCC2=O, 5-iodo-6-methyl-3,4-dihydro-2H-naphthalen-1-one
+CSC1CCCCC1NCC1CCCN1C, N-[(1-methylpyrrolidin-2-yl)methyl]-2-methylsulfanylcyclohexan-1-amine
+COC(=O)Cc1csc2nccn12, methyl 2-imidazo[2,1-b][1,3]thiazol-3-ylacetate
+CCC(C1CC(C)C1C)N(C)C, 1-(2,3-dimethylcyclobutyl)-N,N-dimethylpropan-1-amine
+CSc1ccncc1S(C)(=O)=O, 4-methylsulfanyl-3-methylsulfonylpyridine
+CCCCCCNCCCNC(=O)C=NO, N-[3-(hexylamino)propyl]-2-hydroxyiminoacetamide
+CCCCC1=C(C(=O)O)CCC1, 2-butylcyclopentene-1-carboxylic acid
+COC(=O)N1C(C)CC1(C)C, methyl 2,2,4-trimethylazetidine-1-carboxylate
+CC(c1ccncc1)N1CCNCC1, 1-(1-pyridin-4-ylethyl)piperazine
+CCc1ccn(CC2COCCO2)n1, 1-(1,4-dioxan-2-ylmethyl)-3-ethylpyrazole
+CC(C)c1nc(C(N)=S)cs1, 2-propan-2-yl-1,3-thiazole-4-carbothioamide
+CC(C)C(CNCCO)C(C)C=O, 3-[(2-hydroxyethylamino)methyl]-2,4-dimethylpentanal
+C#CC(O)C1COC(C)(C)O1, 1-(2,2-dimethyl-1,3-dioxolan-4-yl)prop-2-yn-1-ol
+CCC(CCN)CCCNCCC1CCC1, N'-(2-cyclobutylethyl)-3-ethylhexane-1,6-diamine
+CC1CCCCC1NCCC1=CCCC1, N-[2-(cyclopenten-1-yl)ethyl]-2-methylcyclohexan-1-amine
+Clc1cnc(NCc2nccs2)s1, 5-chloro-N-(1,3-thiazol-2-ylmethyl)-1,3-thiazol-2-amine
+N#CCc1cc(Br)cc(F)c1N, 2-(2-amino-5-bromo-3-fluorophenyl)acetonitrile
+Cc1ccc(C(C)N)c(C)c1C, 1-(2,3,4-trimethylphenyl)ethanamine
+COc1cc(C(C)N)cc(C)n1, 1-(2-methoxy-6-methylpyridin-4-yl)ethanamine
+C=C(C)C(N)c1csc(C)c1, 2-methyl-1-(5-methylthiophen-3-yl)prop-2-en-1-amine
+CCC1(CN2CCCC2)CCCNC1, 3-ethyl-3-(pyrrolidin-1-ylmethyl)piperidine
+CNCC(O)c1ccccc1C1CC1, 1-(2-cyclopropylphenyl)-2-(methylamino)ethanol
+Cc1cccc(NCC(N)CN)c1C, 3-N-(2,3-dimethylphenyl)propane-1,2,3-triamine
+COCNc1ccc(OC(C)C)cc1, N-(methoxymethyl)-4-propan-2-yloxyaniline
+SCc1cc(CS)c(CS)cc1CS, [2,4,5-tris(sulfanylmethyl)phenyl]methanethiol
+Cc1c(C=O)ccc2c1cnn2C, 1,4-dimethylindazole-5-carbaldehyde
+CCSCCCN(C)CC1CCCCC1O, 2-[[3-ethylsulfanylpropyl(methyl)amino]methyl]cyclohexan-1-ol
+N#Cc1cc(OC(F)F)ncc1O, 2-(difluoromethoxy)-5-hydroxypyridine-4-carbonitrile
+CC(NC1CCCNC1C)C(=O)O, 2-[(2-methylpiperidin-3-yl)amino]propanoic acid
+C#CCCCN(CC(C)C)C(C)C, N-(2-methylpropyl)-N-propan-2-ylpent-4-yn-1-amine
+Brc1cccc2c1OCCC21CC1, 8-bromospiro[2,3-dihydrochromene-4,1'-cyclopropane]
+CC(C)C(C)C(O)c1ccoc1, 1-(furan-3-yl)-2,3-dimethylbutan-1-ol
+CCCNCCC(C)(C)C(C)CCC, 3,3,4-trimethyl-N-propylheptan-1-amine
+Nc1cc(C(=O)O)c(N)cn1, 2,5-diaminopyridine-4-carboxylic acid
+C=C(C(=O)OC)c1sccc1C, methyl 2-(3-methylthiophen-2-yl)prop-2-enoate
+COC1c2ccccc2C2CC21CO, (6-methoxy-1a,6-dihydro-1H-cyclopropa[a]inden-6a-yl)methanol
+NCC1CCN(Cc2nccs2)CC1, [1-(1,3-thiazol-2-ylmethyl)piperidin-4-yl]methanamine
+N#Cc1c[nH]c(=S)cc1Br, 4-bromo-6-sulfanylidene-1H-pyridine-3-carbonitrile
+N#Cc1cocc1C(N)C(=O)O, 2-amino-2-(4-cyanofuran-3-yl)acetic acid
+CCC(C)(C)N(C)CCC(C)O, 4-[methyl(2-methylbutan-2-yl)amino]butan-2-ol
+Cc1nsc(NC2CCNCC2C)n1, 3-methyl-N-(3-methylpiperidin-4-yl)-1,2,4-thiadiazol-5-amine
+CCC(C)(C)c1ncnc(C)n1, 2-methyl-4-(2-methylbutan-2-yl)-1,3,5-triazine
+N#CC12CCC1(C#N)N=NC2, 2,3-diazabicyclo[3.2.0]hept-2-ene-1,5-dicarbonitrile
+CCCC(C)C(NCC)C(C)OCC, 2-ethoxy-N-ethyl-4-methylheptan-3-amine
+O=C1OCNc2cc(Br)ccc21, 7-bromo-1,2-dihydro-3,1-benzoxazin-4-one
+CCC(CC)CNc1ccc(F)nc1, N-(2-ethylbutyl)-6-fluoropyridin-3-amine
+NCCCCc1ccc2scnc2c1Cl, 4-(4-chloro-1,3-benzothiazol-5-yl)butan-1-amine
+CC/C=C/CCC(O)C=C(C)C, (7E)-2-methyldeca-2,7-dien-4-ol
+CCCCCCCC(=O)c1ccccn1, 1-pyridin-2-yloctan-1-one
+COc1c(F)cc(CNO)cc1Cl, N-[(3-chloro-5-fluoro-4-methoxyphenyl)methyl]hydroxylamine
+CC(C)C1(Nc2nncs2)CC1, N-(1-propan-2-ylcyclopropyl)-1,3,4-thiadiazol-2-amine
+Cc1ccc(CO)n1-c1nccs1, [5-methyl-1-(1,3-thiazol-2-yl)pyrrol-2-yl]methanol
+CC1CC1CNC(C)C1(C)CC1, 1-(1-methylcyclopropyl)-N-[(2-methylcyclopropyl)methyl]ethanamine
+COCc1ccccc1OC(C)(C)C, 1-(methoxymethyl)-2-[(2-methylpropan-2-yl)oxy]benzene
+OCCCCc1cc2c(cn1)CCC2, 4-(6,7-dihydro-5H-cyclopenta[c]pyridin-3-yl)butan-1-ol
+CCCCCC(N)c1ccc(I)cc1, 1-(4-iodophenyl)hexan-1-amine
+COC(=O)CCCNc1ccccc1N, methyl 4-(2-aminoanilino)butanoate
+COCCN1CCC(C)=C(Br)C1, 5-bromo-1-(2-methoxyethyl)-4-methyl-3,6-dihydro-2H-pyridine
+C/C=C/CC(CC)C(C)(C)C, (E)-5-ethyl-6,6-dimethylhept-2-ene
+CCCCC[C@H](O)CC(C)=O, (4S)-4-hydroxynonan-2-one
+COS(=S)(=S)S(=O)[O-], sulfinatosulfonodithioyloxymethane
+CCC1OCCC1C(=O)N1CCC1, azetidin-1-yl-(2-ethyloxolan-3-yl)methanone
+C=Cc1ccc(CC(=O)O)cc1, 2-(4-ethenylphenyl)acetic acid
+CC(=O)C1CCSc2ccccc21, 1-(3,4-dihydro-2H-thiochromen-4-yl)ethanone
+CNCc1ccccc1-c1ccnn1C, N-methyl-1-[2-(2-methylpyrazol-3-yl)phenyl]methanamine
+CCCc1nc2ccccc2n1COCC, 1-(ethoxymethyl)-2-propylbenzimidazole
+NC1CCOC2(CCC3CC32)C1, spiro[bicyclo[3.1.0]hexane-2,2'-oxane]-4'-amine
+Cc1nc(Nc2ccccc2)nn1C, 1,5-dimethyl-N-phenyl-1,2,4-triazol-3-amine
+Nc1cn[nH]c1CNC1CCCC1, 5-[(cyclopentylamino)methyl]-1H-pyrazol-4-amine
+CC1(COc2ccn[nH]2)CC1, 5-[(1-methylcyclopropyl)methoxy]-1H-pyrazole
+NC(N)=NC[C@H]1CCCNC1, 2-[[(3S)-piperidin-3-yl]methyl]guanidine
+CN=C(NC)NC1(C)CCCOC1, 1,2-dimethyl-3-(3-methyloxan-3-yl)guanidine
+C=CCSc1nc(F)c(F)cc1F, 2,3,5-trifluoro-6-prop-2-enylsulfanylpyridine
+CSCC(C)CNC(=O)CC(C)N, 3-amino-N-(2-methyl-3-methylsulfanylpropyl)butanamide
+Cc1cscc1NCC(C)C(N)=O, 2-methyl-3-[(4-methylthiophen-3-yl)amino]propanamide
+CC1=NN=C(c2ccccn2)C1, 2-(5-methyl-4H-pyrazol-3-yl)pyridine
+CC(O)c1ccc(O)c(Cl)n1, 2-chloro-6-(1-hydroxyethyl)pyridin-3-ol
+CCC1(c2nc(Cl)ns2)CC1, 3-chloro-5-(1-ethylcyclopropyl)-1,2,4-thiadiazole
+CSCCNc1nc(C)nc(C)c1F, 5-fluoro-2,6-dimethyl-N-(2-methylsulfanylethyl)pyrimidin-4-amine
+C=C(C)COCCNCCc1cccs1, N-[2-(2-methylprop-2-enoxy)ethyl]-2-thiophen-2-ylethanamine
+Cc1cccc(C2(S)COC2)c1, 3-(3-methylphenyl)oxetane-3-thiol
+O=C1NCCOc2ccc(F)cc21, 7-fluoro-3,4-dihydro-2H-1,4-benzoxazepin-5-one
+CC(C)C[N+]1(C)CCCC1C, 1,2-dimethyl-1-(2-methylpropyl)pyrrolidin-1-ium
+CSCCCN1CCCC1CNCC(C)C, 2-methyl-N-[[1-(3-methylsulfanylpropyl)pyrrolidin-2-yl]methyl]propan-1-amine
+C=C(/C=C\C(=O)O)NCCC, (2Z)-4-(propylamino)penta-2,4-dienoic acid
+c1ccc2c(c1)sc1ccnn12, pyrazolo[5,1-b][1,3]benzothiazole
+C#CCCCOc1ccc(C)cc1Br, 2-bromo-4-methyl-1-pent-4-ynoxybenzene
+c1nccc(Oc2ccccc2)c#1, 4-phenoxy-5,6-didehydropyridine
+CN(C)c1cccc(OCC=O)c1, 2-[3-(dimethylamino)phenoxy]acetaldehyde
+CNC(c1cnccn1)c1ccns1, N-methyl-1-pyrazin-2-yl-1-(1,2-thiazol-5-yl)methanamine
+C=CCCC(CC)NCCc1ccsc1, N-(2-thiophen-3-ylethyl)hept-6-en-3-amine
+C=CC(C)NCC(CC)(CC)CO, 2-[(but-3-en-2-ylamino)methyl]-2-ethylbutan-1-ol
+C=Cc1cc2cc(Br)ccc2o1, 5-bromo-2-ethenyl-1-benzofuran
+O=CN1COC[C@H]1C(=O)O, (4S)-3-formyl-1,3-oxazolidine-4-carboxylic acid
+Nc1c(F)c(S)cc2sccc12, 4-amino-5-fluoro-1-benzothiophene-6-thiol
+CC1(C)OB(O)c2ncccc21, 1-hydroxy-3,3-dimethyloxaborolo[3,4-b]pyridine
+C=C(C)CN1CCCC(OC)CC1, 4-methoxy-1-(2-methylprop-2-enyl)azepane
+NCCCCCC(=O)Cc1ccccc1, 7-amino-1-phenylheptan-2-one
+C=CC(NCCC)C(C)(CC)OC, 4-methoxy-4-methyl-N-propylhex-1-en-3-amine
+C#CC=CC1=CCN(OC)C=C1, 4-but-1-en-3-ynyl-1-methoxy-2H-pyridine
+C1CCN(C2CC3CCC2C3)C1, 1-(2-bicyclo[2.2.1]heptanyl)pyrrolidine
+CC1Cc2ccc(CCCO)cc2O1, 3-(2-methyl-2,3-dihydro-1-benzofuran-6-yl)propan-1-ol
+COc1c(C)cc2ccsc2c1Br, 7-bromo-6-methoxy-5-methyl-1-benzothiophene
+NC(=O)NCc1ccc(Cl)cc1, (4-chlorophenyl)methylurea
+CNC(C)COCc1cccc(N)c1, 3-[2-(methylamino)propoxymethyl]aniline
+Br/C=C\CCCCCC/C=C\Br, (1Z,9Z)-1,10-dibromodeca-1,9-diene
+NC(C(=O)N1CCC1)C1CC1, 2-amino-1-(azetidin-1-yl)-2-cyclopropylethanone
+COC(=O)N1CCC(C)(F)C1, methyl 3-fluoro-3-methylpyrrolidine-1-carboxylate
+CCOc1cc2cc(F)sc2cc1N, 5-ethoxy-2-fluoro-1-benzothiophen-6-amine
+CCC(=O)C1CCCC1C(C)=O, 1-(2-acetylcyclopentyl)propan-1-one
+C#CC(CC)NCCSc1ccccc1, N-(2-phenylsulfanylethyl)pent-1-yn-3-amine
+CCCn1ccnc1/N=C/N(C)C, N,N-dimethyl-N'-(1-propylimidazol-2-yl)methanimidamide
+Cn1nnc(C2CCCCC2=O)n1, 2-(2-methyltetrazol-5-yl)cyclohexan-1-one
+COc1cc(C#N)c(Cl)cc1C, 2-chloro-5-methoxy-4-methylbenzonitrile
+CC1(C(=O)O)CCC=CCCC1, 1-methylcyclooct-4-ene-1-carboxylic acid
+N/C=C(\CN)C1C=CC=CN1, (E)-2-(1,2-dihydropyridin-2-yl)prop-1-ene-1,3-diamine
+CSCCCn1cc(C(C)=O)cn1, 1-[1-(3-methylsulfanylpropyl)pyrazol-4-yl]ethanone
+C=C(CC)CNc1ccc(F)cn1, 5-fluoro-N-(2-methylidenebutyl)pyridin-2-amine
+CN(CCC#N)c1ncc(F)cn1, 3-[(5-fluoropyrimidin-2-yl)-methylamino]propanenitrile
+CCC(=O)NC(=O)c1ccsc1, N-propanoylthiophene-3-carboxamide
+CN1CCNC2=C1NC(=O)CN2, 5-methyl-1,2,4,6,7,8-hexahydropyrazino[2,3-b]pyrazin-3-one
+CC=C(CC)C(=O)N1CCCO1, 2-ethyl-1-(1,2-oxazolidin-2-yl)but-2-en-1-one
+CC1SCCCC1Nc1cn[nH]c1, N-(2-methylthian-3-yl)-1H-pyrazol-4-amine
+CNC1c2cccc(OC)c2CC1C, 4-methoxy-N,2-dimethyl-2,3-dihydro-1H-inden-1-amine
+C=CCC(/C=C/C(=O)O)CC, (2E)-4-ethylhepta-2,6-dienoic acid
+COc1cc(C2=NCCN2)ncn1, 4-(4,5-dihydro-1H-imidazol-2-yl)-6-methoxypyrimidine
+CCCNCC(=O)c1cnn(C)c1, 1-(1-methylpyrazol-4-yl)-2-(propylamino)ethanone
+CCC(CC)N1CC(CO)CC1=O, 4-(hydroxymethyl)-1-pentan-3-ylpyrrolidin-2-one
+Cc1[nH]cnc1CNc1cnns1, N-[(5-methyl-1H-imidazol-4-yl)methyl]thiadiazol-5-amine
+C#CC(O)C1(C)OC1(C)CO, 1-[3-(hydroxymethyl)-2,3-dimethyloxiran-2-yl]prop-2-yn-1-ol
+CCc1csc(NCCC(N)CC)n1, 1-N-(4-ethyl-1,3-thiazol-2-yl)pentane-1,3-diamine
+CN(C)CCCOc1ccc(F)cc1, 3-(4-fluorophenoxy)-N,N-dimethylpropan-1-amine
+COCc1ccc2c(c1)CCCC2N, 6-(methoxymethyl)-1,2,3,4-tetrahydronaphthalen-1-amine
+CSCC(C)(O)CNCC1CCOC1, 2-methyl-1-methylsulfanyl-3-(oxolan-3-ylmethylamino)propan-2-ol
+CCc1c(F)cc2ccsc2c1Cl, 7-chloro-6-ethyl-5-fluoro-1-benzothiophene
+CNc1cccc(C)c1C(=N)SC, methyl 2-methyl-6-(methylamino)benzenecarboximidothioate
+CCSCCC(CN)N(C)CC1CC1, 2-N-(cyclopropylmethyl)-4-ethylsulfanyl-2-N-methylbutane-1,2-diamine
+FC(F)(Cl)C(F)(F)SSCl, (2-chloro-1,1,2,2-tetrafluoroethyl)sulfanyl thiohypochlorite
+CCCNCC(C)Cc1cnnn1CCC, 2-methyl-N-propyl-3-(3-propyltriazol-4-yl)propan-1-amine
+CC1CC(NC2CCOCC2)CCO1, 2-methyl-N-(oxan-4-yl)oxan-4-amine
+Cc1ccc(-c2ccccc2)n1C, 1,2-dimethyl-5-phenylpyrrole
+CCCCCCOc1ccc(OCC)cc1, 1-ethoxy-4-hexoxybenzene
+C=C(C)c1cc(C)cc(C)n1, 2,4-dimethyl-6-prop-1-en-2-ylpyridine
+Cc1ccc(/C(O)=C\O)cc1, (E)-1-(4-methylphenyl)ethene-1,2-diol
+CCOC(=O)C(F)SCCC(C)C, ethyl 2-fluoro-2-(3-methylbutylsulfanyl)acetate
+CC(=O)NC(C)(C)C(=O)S, 2-acetamido-2-methylpropanethioic S-acid
+CC#CC1(O)CC(C)N(C)C1, 1,5-dimethyl-3-prop-1-ynylpyrrolidin-3-ol
+CCC(=CC(C)O)CC(C)C=O, 4-ethyl-6-hydroxy-2-methylhept-4-enal
+CCC1(C2CC2)CC1(CN)CO, [1-(aminomethyl)-2-cyclopropyl-2-ethylcyclopropyl]methanol
+C#CCCN1CCC[C@H](C)C1, (3S)-1-but-3-ynyl-3-methylpiperidine
+CC(CN)c1ccccc1SC1CC1, 2-(2-cyclopropylsulfanylphenyl)propan-1-amine
+CSc1cc2c(s1)CCC(O)C2, 2-methylsulfanyl-4,5,6,7-tetrahydro-1-benzothiophen-5-ol
+C#Cc1nc(Cl)ccc1OCCCC, 3-butoxy-6-chloro-2-ethynylpyridine
+C=CC(N)c1cc(C)n(C)n1, 1-(1,5-dimethylpyrazol-3-yl)prop-2-en-1-amine
+NC1CCCC(c2cccnc2F)C1, 3-(2-fluoropyridin-3-yl)cyclohexan-1-amine
+O=C(OCCCO)c1cc[nH]c1, 3-hydroxypropyl 1H-pyrrole-3-carboxylate
+COc1ccc2cc(Br)sc2c1S, 2-bromo-6-methoxy-1-benzothiophene-7-thiol
+CCC1CCCCC1NCc1scnc1C, 2-ethyl-N-[(4-methyl-1,3-thiazol-5-yl)methyl]cyclohexan-1-amine
+Clc1cccc(-c2cnsn2)c1, 3-(3-chlorophenyl)-1,2,5-thiadiazole
+COc1ccc(Br)c(F)c1C#N, 3-bromo-2-fluoro-6-methoxybenzonitrile
+CSCCCCNC1CC(O)C1(C)C, 2,2-dimethyl-3-(4-methylsulfanylbutylamino)cyclobutan-1-ol
+Cc1c(I)ccc(=O)n1CCCF, 1-(3-fluoropropyl)-5-iodo-6-methylpyridin-2-one
+C=CCCCCCCCC(O)C(=C)C, 2-methyldodeca-1,11-dien-3-ol
+O=C(NCC1CCCS1)C1CNC1, N-(thiolan-2-ylmethyl)azetidine-3-carboxamide
+C=Cc1nc(C(C)(C)C)no1, 3-tert-butyl-5-ethenyl-1,2,4-oxadiazole
+CCCSC(C)(C)C1OOCCOO1, 3-(2-propylsulfanylpropan-2-yl)-1,2,4,5-tetraoxepane
+C=C(C(=O)O)C(C)(C)CC, 3,3-dimethyl-2-methylidenepentanoic acid
+CC(=O)[C@@H]1CC12CC2, 1-[(2R)-spiro[2.2]pentan-2-yl]ethanone
+CC(C)Cn1cc(Br)cnc1=O, 5-bromo-1-(2-methylpropyl)pyrimidin-2-one
+Nc1ncc2cc(C=O)ccc2n1, 2-aminoquinazoline-6-carbaldehyde
+CCC(CCO)NC(=O)COCCOC, N-(1-hydroxypentan-3-yl)-2-(2-methoxyethoxy)acetamide
+CCOC(=O)NC1CCC(=O)C1, ethyl N-(3-oxocyclopentyl)carbamate
+CCN1C(C)C(C)CC(C)C1C, 1-ethyl-2,3,5,6-tetramethylpiperidine
+C[C@H](NCCCCN)C(=O)O, (2S)-2-(4-aminobutylamino)propanoic acid
+CCCC(C)C(NC)c1ccncn1, N,2-dimethyl-1-pyrimidin-4-ylpentan-1-amine
+NN1C=C2N=CC(=O)CN2C1, 7-amino-4,6-dihydroimidazo[1,5-a]pyrimidin-3-one
+CN(CC(N)=O)C1CCCCC1O, 2-[(2-hydroxycyclohexyl)-methylamino]acetamide
+CCC1CCCC1NC1CCCCC1SC, N-(2-ethylcyclopentyl)-2-methylsulfanylcyclohexan-1-amine
+CNC1(C(=O)OC)CCCSC1C, methyl 2-methyl-3-(methylamino)thiane-3-carboxylate
+CC(=O)CCCCOc1ccccc1F, 6-(2-fluorophenoxy)hexan-2-one
+Cc1ccc2cc(N)cnc2c1Cl, 8-chloro-7-methylquinolin-3-amine
+COc1c(O)cccc1C1CCCN1, 2-methoxy-3-pyrrolidin-2-ylphenol
+NNC(=S)NCC1CNC(=O)C1, 1-amino-3-[(5-oxopyrrolidin-3-yl)methyl]thiourea
+C=C(C)C(=O)NC(=CC)CC, 2-methyl-N-pent-2-en-3-ylprop-2-enamide
+CC1CCC(Nc2cnns2)CC1C, N-(3,4-dimethylcyclohexyl)thiadiazol-5-amine
+CNNC(=O)C(C)c1cccnc1, N'-methyl-2-pyridin-3-ylpropanehydrazide
+Cc1ccc(C(C)(C)CN)cc1, 2-methyl-2-(4-methylphenyl)propan-1-amine
+CCOc1cncc(C(=O)NN)n1, 6-ethoxypyrazine-2-carbohydrazide
+O=C1NCCN1C(CO)(CO)CO, 1-[1,3-dihydroxy-2-(hydroxymethyl)propan-2-yl]imidazolidin-2-one
+CCc1ccsc1Cn1nnnc1CCl, 5-(chloromethyl)-1-[(3-ethylthiophen-2-yl)methyl]tetrazole
+O=CN1CCc2cccc(Br)c21, 7-bromo-2,3-dihydroindole-1-carbaldehyde
+CN1C=CC=[C+]C1C(=O)O, 1-methyl-2,3-dihydropyridin-3-ylium-2-carboxylic acid
+CCN(C(CO)CO)C(C)(C)C, 2-[tert-butyl(ethyl)amino]propane-1,3-diol
+O=P1(O)C=Cc2ccccc2O1, 2-hydroxy-1,2λ5-benzoxaphosphinine 2-oxide
+OCCCCCCCCCC#C/C=C/Cl, (E)-13-chlorotridec-12-en-10-yn-1-ol
+CNC[C@H]1CCCCN1C(C)C, N-methyl-1-[(2R)-1-propan-2-ylpiperidin-2-yl]methanamine
+NCCNc1cnc(C2CCC2)nc1, N'-(2-cyclobutylpyrimidin-5-yl)ethane-1,2-diamine
+CCCNC1COCC1Sc1ccccc1, 4-phenylsulfanyl-N-propyloxolan-3-amine
+Cn1ccc(CSC(C)(C)C)n1, 3-(tert-butylsulfanylmethyl)-1-methylpyrazole
+CCC(C)c1cnc(OC)nc1OC, 5-butan-2-yl-2,4-dimethoxypyrimidine
+Cc1coc(CN2CCCCCC2)n1, 2-(azepan-1-ylmethyl)-4-methyl-1,3-oxazole
+OC1CCCC/C1=C\c1ccco1, (2E)-2-(furan-2-ylmethylidene)cyclohexan-1-ol
+CCC(CSC)NCC1(O)CCCC1, 1-[(1-methylsulfanylbutan-2-ylamino)methyl]cyclopentan-1-ol
+NNC(=S)NCc1coc(Br)c1, 1-amino-3-[(5-bromofuran-3-yl)methyl]thiourea
+C=CCN(CCO)C(CCC)CNCC, 2-[1-(ethylamino)pentan-2-yl-prop-2-enylamino]ethanol
+CSCC(C)Nc1ccc(I)cc1N, 4-iodo-1-N-(1-methylsulfanylpropan-2-yl)benzene-1,2-diamine
+CCOC(=O)C(CC)NC1COC1, ethyl 2-(oxetan-3-ylamino)butanoate
+CCCCC(CC)CNC(CC)CCCC, 2-ethyl-N-heptan-3-ylhexan-1-amine
+C1=Cc2cc3nccc-3cn2C1, 6H-pyrrolo[3,2-f]indolizine
+CCC1CCC(NCc2cscn2)C1, 3-ethyl-N-(1,3-thiazol-4-ylmethyl)cyclopentan-1-amine
+[SiH3]CCCC1CCC2OC2C1, 3-(7-oxabicyclo[4.1.0]heptan-3-yl)propylsilane
+COCCCCNc1ccc(Cl)cc1F, 4-chloro-2-fluoro-N-(4-methoxybutyl)aniline
+c1cncc(CNN2CCCCC2)c1, N-(pyridin-3-ylmethyl)piperidin-1-amine
+C=CCC(C=C)CCCC=NCCCC, N-butyl-5-ethenyloct-7-en-1-imine
+CSC(C)CNCc1cnn(C)c1C, N-[(1,5-dimethylpyrazol-4-yl)methyl]-2-methylsulfanylpropan-1-amine
+COCc1csc2c(Cl)cccc12, 7-chloro-3-(methoxymethyl)-1-benzothiophene
+C[C@@H]1CCSc2cccnc21, (4R)-4-methyl-3,4-dihydro-2H-thiopyrano[3,2-b]pyridine
+Cc1c(N)cnc(N)c1C(F)F, 3-(difluoromethyl)-4-methylpyridine-2,5-diamine
+NC1CCC2C(C1)C2(Cl)Cl, 7,7-dichlorobicyclo[4.1.0]heptan-3-amine
+C=CCC(C)=CC(C)CN(C)C, N,N,2,4-tetramethylhepta-3,6-dien-1-amine
+O=C1C=C(N2CCSCC2)CC1, 3-thiomorpholin-4-ylcyclopent-2-en-1-one
+CCC(O)CN1CCCC(N)C1=O, 3-amino-1-(2-hydroxybutyl)piperidin-2-one
+CC1(C)Cc2cccc(O)c2S1, 2,2-dimethyl-3H-1-benzothiophen-7-ol
+O=C1CCCCCCNC(=O)CCN1, 1,5-diazacyclododecane-2,6-dione
+CCC(CC)CNCCCC(C)(C)N, 1-N-(2-ethylbutyl)-4-methylpentane-1,4-diamine
+CN(C)C(=O)C1CCCCCCN1, N,N-dimethylazocane-2-carboxamide
+Cc1nnc(Cl)n1C1CCCOC1, 3-chloro-5-methyl-4-(oxan-3-yl)-1,2,4-triazole
+CC(C)CCCCCCNc1ccccn1, N-(7-methyloctyl)pyridin-2-amine
+O=C(O)C1CC1N1CCCC1=O, 2-(2-oxopyrrolidin-1-yl)cyclopropane-1-carboxylic acid
+CSc1ccc(N([O-])O)cc1, N-(4-methylsulfanylphenyl)-N-oxidohydroxylamine
+CN(CCC1CNC1)Cc1ccoc1, 2-(azetidin-3-yl)-N-(furan-3-ylmethyl)-N-methylethanamine
+Cc1ccc(C(F)(F)CCO)o1, 3,3-difluoro-3-(5-methylfuran-2-yl)propan-1-ol
+CCCN1CC(NC2=NCCC2)C1, N-(1-propylazetidin-3-yl)-3,4-dihydro-2H-pyrrol-5-amine
+CC(=O)OC1(C(C)=O)CC1, (1-acetylcyclopropyl) acetate
+CC(C)C(CCO)NCC1CCOC1, 4-methyl-3-(oxolan-3-ylmethylamino)pentan-1-ol
+CC(CBr)C[C@@H](C)CCl, (4R)-1-bromo-5-chloro-2,4-dimethylpentane
+Cn1cnn(Cc2ccoc2)c1=O, 2-(furan-3-ylmethyl)-4-methyl-1,2,4-triazol-3-one
+CC1CCC(c2noc(N)n2)O1, 3-(5-methyloxolan-2-yl)-1,2,4-oxadiazol-5-amine
+c1nn2cc(C3CCC3)nc2s1, 6-cyclobutylimidazo[2,1-b][1,3,4]thiadiazole
+CC(C)(N)c1cc2ncoc2s1, 2-thieno[3,2-d][1,3]oxazol-5-ylpropan-2-amine
+C=CC[C@@H](O)c1cccs1, (1R)-1-thiophen-2-ylbut-3-en-1-ol
+CCCCc1ccc2ccccc2c1CN, (2-butylnaphthalen-1-yl)methanamine
+CSCC(N)Cc1ccc(F)cc1C, 1-(4-fluoro-2-methylphenyl)-3-methylsulfanylpropan-2-amine
+C=CCCCN(C)C(=O)CCCCl, 4-chloro-N-methyl-N-pent-4-enylbutanamide
+CC(C)CC(C=O)NC(=O)CO, 2-hydroxy-N-(4-methyl-1-oxopentan-2-yl)acetamide
+CC1COCCN1c1ncnc(N)n1, 4-(3-methylmorpholin-4-yl)-1,3,5-triazin-2-amine
+CCCNC(=O)CNC1(C)CCC1, 2-[(1-methylcyclobutyl)amino]-N-propylacetamide
+COc1cccc(Br)c1/C=N/O, (NE)-N-[(2-bromo-6-methoxyphenyl)methylidene]hydroxylamine
+CC1=CCCC(n2cccn2)=C1, 1-(3-methylcyclohexa-1,3-dien-1-yl)pyrazole
+CCCCCCCCCC(=O)C1CNC1, 1-(azetidin-3-yl)decan-1-one
+C/C=C/CCCCCCNC(C)C#N, 2-[[(E)-non-7-enyl]amino]propanenitrile
+CO[Si](C)(C)CC=C(C)C, methoxy-dimethyl-(3-methylbut-2-enyl)silane
+CCN(C)c1ncnc(Cl)c1Br, 5-bromo-6-chloro-N-ethyl-N-methylpyrimidin-4-amine
+CCCCNC(=O)c1nnc(N)s1, 5-amino-N-butyl-1,3,4-thiadiazole-2-carboxamide
+O=C(NCC1CC1)c1ccncn1, N-(cyclopropylmethyl)pyrimidine-4-carboxamide
+ClC1CCCN(c2nncs2)CC1, 2-(4-chloroazepan-1-yl)-1,3,4-thiadiazole
+Cc1cnc(NC(C)CCCN)nc1, 4-N-(5-methylpyrimidin-2-yl)pentane-1,4-diamine
+CCc1nc2cc(OC)ccc2n1C, 2-ethyl-5-methoxy-1-methylbenzimidazole
+CCC(NCC1CCCC1)C(N)=O, 2-(cyclopentylmethylamino)butanamide
+CC1CCN(CCOCCS)C(C)C1, 2-[2-(2,4-dimethylpiperidin-1-yl)ethoxy]ethanethiol
+C=C(C)C(=O)OC(CC)OCC, 1-ethoxypropyl 2-methylprop-2-enoate
+CC1CCC(C(=O)Cl)CC1Cl, 3-chloro-4-methylcyclohexane-1-carbonyl chloride
+O=C(c1cscn1)C1CCCNC1, piperidin-3-yl(1,3-thiazol-4-yl)methanone
+CC1(NCCF)CCc2ccccc21, N-(2-fluoroethyl)-1-methyl-2,3-dihydroinden-1-amine
+CC1(C(=O)N2CCCN2)CC1, (1-methylcyclopropyl)-pyrazolidin-1-ylmethanone
+Fc1cc2c(cc1Cl)OCCC2I, 7-chloro-6-fluoro-4-iodo-3,4-dihydro-2H-chromene
+Cc1ccnc(SCC(O)CO)c1N, 3-(3-amino-4-methylpyridin-2-yl)sulfanylpropane-1,2-diol
+CCC(CN)Oc1ccc(SC)cc1, 2-(4-methylsulfanylphenoxy)butan-1-amine
+COC1CCCC1N1CCC(Br)C1, 3-bromo-1-(2-methoxycyclopentyl)pyrrolidine
+COC(C)C(=O)Nc1cscc1C, 2-methoxy-N-(4-methylthiophen-3-yl)propanamide
+CC1CCCN(C(=O)CCCl)C1, 3-chloro-1-(3-methylpiperidin-1-yl)propan-1-one
+CN(CCN)CCCc1ccccc1Br, N'-[3-(2-bromophenyl)propyl]-N'-methylethane-1,2-diamine
+CN1CC(F)CC1COCC(=O)O, 2-[(4-fluoro-1-methylpyrrolidin-2-yl)methoxy]acetic acid
+Cc1cc2nnn(C#N)c2cc1C, 5,6-dimethylbenzotriazole-1-carbonitrile
+OCc1nccn1CCCC1CCNCC1, [1-(3-piperidin-4-ylpropyl)imidazol-2-yl]methanol
+CCCCNCCC(=O)N(C)CCCC, N-butyl-3-(butylamino)-N-methylpropanamide
+OC1(C(F)F)CCCC12CCC2, 8-(difluoromethyl)spiro[3.4]octan-8-ol
+Cc1ccc(N)c(=O)c(C)c1, 7-amino-2,4-dimethylcyclohepta-2,4,6-trien-1-one
+Cc1cscc1NCC(N)C(=O)O, 2-amino-3-[(4-methylthiophen-3-yl)amino]propanoic acid
+CC(=O)C1C#CC(O)=CC1F, 1-(6-fluoro-4-hydroxycyclohex-4-en-2-yn-1-yl)ethanone
+Nc1ncc(C(=O)O)cc1C=O, 6-amino-5-formylpyridine-3-carboxylic acid
+CNC(c1cscn1)C1CCOCC1, N-methyl-1-(oxan-4-yl)-1-(1,3-thiazol-4-yl)methanamine
+Cc1ccc(SC2CCCC2)cc1N, 5-cyclopentylsulfanyl-2-methylaniline
+Cc1ccc(I)c2c(O)csc12, 4-iodo-7-methyl-1-benzothiophen-3-ol
+CSCCCCNc1cc(F)ccc1Br, 2-bromo-5-fluoro-N-(4-methylsulfanylbutyl)aniline
+C1=CC[C@H]2COCC2=CC1, (3aR)-3,3a,4,7-tetrahydro-1H-cyclohepta[c]furan
+CC(ON)OC(=O)C(C)(C)C, 1-aminooxyethyl 2,2-dimethylpropanoate
+Cc1nsc(SCC2CCCCN2)n1, 3-methyl-5-(piperidin-2-ylmethylsulfanyl)-1,2,4-thiadiazole
+CCCCCC[C@@H](CCC)CCN, (3R)-3-propylnonan-1-amine
+CSCCCSc1cc(N)cc(F)c1, 3-fluoro-5-(3-methylsulfanylpropylsulfanyl)aniline
+Cn1nccc1C(=O)NCCCCCN, N-(5-aminopentyl)-2-methylpyrazole-3-carboxamide
+CCc1ccn(-c2ccnnc2)n1, 4-(3-ethylpyrazol-1-yl)pyridazine
+CCOC(=O)Cc1oc(C)cc1C, ethyl 2-(3,5-dimethylfuran-2-yl)acetate
+C=CCSCCNCCCCc1ccccc1, 4-phenyl-N-(2-prop-2-enylsulfanylethyl)butan-1-amine
+CCCOc1nn(CC)c(=O)n1C, 2-ethyl-4-methyl-5-propoxy-1,2,4-triazol-3-one
+COCC(C)(C)C(=O)N(C)C, 3-methoxy-N,N,2,2-tetramethylpropanamide
+Cc1csc(COC2CCNCC2)n1, 4-methyl-2-(piperidin-4-yloxymethyl)-1,3-thiazole
+C1Cc2c(sc3nsnc23)CN1, 4,7-dithia-3,5,10-triazatricyclo[6.4.0.02,6]dodeca-1(8),2,5-triene
+CCC1CCCCC(C(=O)NC)C1, 3-ethyl-N-methylcycloheptane-1-carboxamide
+O=C1CNc2ccc(Cl)nc2S1, 6-chloro-1,2-dihydropyrido[2,3-b][1,4]thiazin-3-one
+C/C=C(/CO)c1ccccc1OC, (E)-2-(2-methoxyphenyl)but-2-en-1-ol
+CNC1CCCC1CN(CCO)CCOC, 2-[2-methoxyethyl-[[2-(methylamino)cyclopentyl]methyl]amino]ethanol
+C#CCCN(C)c1cccc(O)c1, 3-[but-3-ynyl(methyl)amino]phenol
+COc1ccccc1/C(=C\F)CN, (E)-3-fluoro-2-(2-methoxyphenyl)prop-2-en-1-amine
+Cc1noc(NC(=O)OCCO)n1, 2-hydroxyethyl N-(3-methyl-1,2,4-oxadiazol-5-yl)carbamate
+CCC(Cl)/C=C/CCC(=O)O, (E)-6-chlorooct-4-enoic acid
+CCC(COC)NC(=O)OC(C)C, propan-2-yl N-(1-methoxybutan-2-yl)carbamate
+CC=N/C(=N\N)C(F)(F)F, N'-amino-N-ethylidene-2,2,2-trifluoroethanimidamide
+Nc1ccc(C2CCCCC2)cc1F, 4-cyclohexyl-2-fluoroaniline
+CCC(=O)NC(CC)C(=O)OC, methyl 2-(propanoylamino)butanoate
+C=CC(C)NC(C)Cc1cccs1, N-(1-thiophen-2-ylpropan-2-yl)but-3-en-2-amine
+C=C(C)/C=C/CCCCCCCCC, (3E)-2-methyltrideca-1,3-diene
+CCC(C)CSc1ccnc(NC)c1, N-methyl-4-(2-methylbutylsulfanyl)pyridin-2-amine
+C1=CC(NC2CCSCC2)CCC1, N-cyclohex-2-en-1-ylthian-4-amine
+NCCCc1cc2c(cc1F)CCC2, 3-(6-fluoro-2,3-dihydro-1H-inden-5-yl)propan-1-amine
+C=CCOC(=O)C1CC(=O)C1, prop-2-enyl 3-oxocyclobutane-1-carboxylate
+CCn1cc2c(nc1=O)NOCC2, 6-ethyl-3,4-dihydro-1H-pyrimido[4,5-c]oxazin-7-one
+Cc1ncsc1CNC1CCN(C)C1, 1-methyl-N-[(4-methyl-1,3-thiazol-5-yl)methyl]pyrrolidin-3-amine
+CCC1CC1Nc1c(N)cccc1F, 2-N-(2-ethylcyclopropyl)-3-fluorobenzene-1,2-diamine
+NCC1(CC2CCCO2)CCCOC1, [3-(oxolan-2-ylmethyl)oxan-3-yl]methanamine
+CC1(CC(O)C(F)F)CCCC1, 1,1-difluoro-3-(1-methylcyclopentyl)propan-2-ol
+Cc1nc(C=C2CCNC2)sc1C, 4,5-dimethyl-2-(pyrrolidin-3-ylidenemethyl)-1,3-thiazole
+CNC(=O)c1cc(I)ccc1Cl, 2-chloro-5-iodo-N-methylbenzamide
+OC(CC1CCCC1)C1CSCCS1, 2-cyclopentyl-1-(1,4-dithian-2-yl)ethanol
+C=CC(=O)N1CC(C)CC1=O, 4-methyl-1-prop-2-enoylpyrrolidin-2-one
+C[C@@H](O)[C@@H](C)S, (2R,3R)-3-sulfanylbutan-2-ol
+CC(C)(CCO)NCc1sccc1N, 3-[(3-aminothiophen-2-yl)methylamino]-3-methylbutan-1-ol
+ClC(Cl)c1cccc2c1OCO2, 4-(dichloromethyl)-1,3-benzodioxole
+NCCC(=O)NCCCCC1CCCC1, 3-amino-N-(4-cyclopentylbutyl)propanamide
+CC1CSCC1(O)c1ccncc1F, 3-(3-fluoropyridin-4-yl)-4-methylthiolan-3-ol
+CC/C(C)=C(\CC)C(C)=O, (E)-3-ethyl-4-methylhex-3-en-2-one
+CC(CBr)C(C)NCc1ccsc1, 4-bromo-3-methyl-N-(thiophen-3-ylmethyl)butan-2-amine
+CCn1ccnc1CN1CC(O)CO1, 2-[(1-ethylimidazol-2-yl)methyl]-1,2-oxazolidin-4-ol
+CN1C=CN2C(N)=NC=NC12, 8-methyl-8aH-imidazo[1,2-a][1,3,5]triazin-4-amine
+CC1COC(c2ccsc2)CNC1C, 5,6-dimethyl-2-thiophen-3-yl-1,4-oxazepane
+N#CCCc1ccc(C(F)F)cc1, 3-[4-(difluoromethyl)phenyl]propanenitrile
+CC[C@H](CCO)CCCN(C)C, (3S)-6-(dimethylamino)-3-ethylhexan-1-ol
+CNC1CCCCC(C2CCOC2)C1, N-methyl-3-(oxolan-3-yl)cycloheptan-1-amine
+O=C1CNc2ccc(CO)nc2O1, 6-(hydroxymethyl)-1,2-dihydropyrido[2,3-b][1,4]oxazin-3-one
+FC1(F)Cc2ccc(Br)cc21, 3-bromo-8,8-difluorobicyclo[4.2.0]octa-1(6),2,4-triene
+COC(C)CN1C2C=CCC1CC2, 8-(2-methoxypropyl)-8-azabicyclo[3.2.1]oct-2-ene
+CN1c2ccccc2C(O)=CC1O, 1-methyl-2H-quinoline-2,4-diol
+CC(=O)NCC12CCCC1CNC2, N-(2,3,4,5,6,6a-hexahydro-1H-cyclopenta[c]pyrrol-3a-ylmethyl)acetamide
+CNCCN1Cc2ncccc2CC1=O, 7-[2-(methylamino)ethyl]-5,8-dihydro-1,7-naphthyridin-6-one
+CCC(N)=NC(C)C1CCCCC1, N'-(1-cyclohexylethyl)propanimidamide
+CN(CC#N)C1CCC(C#N)C1, 3-[cyanomethyl(methyl)amino]cyclopentane-1-carbonitrile
+CCOC(=O)/C(F)=C(/F)I, ethyl (E)-2,3-difluoro-3-iodoprop-2-enoate
+C1=CCON(C2CCCCC2)CC1, 2-cyclohexyl-4,7-dihydro-3H-oxazepine
+C=C(N)c1ccc2ncccc2c1, 1-quinolin-6-ylethenamine
+C=C(C)CNCC1CCC(=O)N1, 5-[(2-methylprop-2-enylamino)methyl]pyrrolidin-2-one
+Cn1nncc1N1CCCC(O)CC1, 1-(3-methyltriazol-4-yl)azepan-4-ol
+O=C1NCC2OC3CCCNC3C12, 7-oxa-4,12-diazatricyclo[6.4.0.02,6]dodecan-3-one
+O=C(I)COc1ccc(Cl)cc1, 2-(4-chlorophenoxy)acetyl iodide
+NC(c1ccsc1)P(=O)(O)O, [amino(thiophen-3-yl)methyl]phosphonic acid
+CN(C)c1ccc(CBr)cc1Br, 2-bromo-4-(bromomethyl)-N,N-dimethylaniline
+C=CC(=O)OC(C)C(=O)NC, [1-(methylamino)-1-oxopropan-2-yl] prop-2-enoate
+COC(N=O)C1CC2CCC1C2C, 2-[methoxy(nitroso)methyl]-7-methylbicyclo[2.2.1]heptane
+CCc1ccc2c(CC)csc2c1F, 3,6-diethyl-7-fluoro-1-benzothiophene
+CCCCNCCN1CCCC1CN(C)C, N-[2-[2-[(dimethylamino)methyl]pyrrolidin-1-yl]ethyl]butan-1-amine
+CC1SCCC1n1ncc(Cl)c1N, 4-chloro-2-(2-methylthiolan-3-yl)pyrazol-3-amine
+Cn1nnc(C2CCC(N)C2)n1, 3-(2-methyltetrazol-5-yl)cyclopentan-1-amine
+CC1CN2CCCC2CN1CCCCCl, 2-(4-chlorobutyl)-3-methyl-3,4,6,7,8,8a-hexahydro-1H-pyrrolo[1,2-a]pyrazine
+O=C(O)CCCCC1CCS[Se]1, 5-(thiaselenolan-3-yl)pentanoic acid
+Cc1c(C(C)C)sc2c1CCC2, 3-methyl-2-propan-2-yl-5,6-dihydro-4H-cyclopenta[b]thiophene
+CCCCc1cc2c(o1)CCCCC2, 2-butyl-5,6,7,8-tetrahydro-4H-cyclohepta[b]furan
+CN(C)C(C)(O)N(C)CCCN, 1-[3-aminopropyl(methyl)amino]-1-(dimethylamino)ethanol
+CC(C)C(O)COCC1CCCCO1, 3-methyl-1-(oxan-2-ylmethoxy)butan-2-ol
+CC(O)c1cccc(O)c1[B]O, hydroxy-[2-hydroxy-6-(1-hydroxyethyl)phenyl]boron
+CC1CNc2ccc(Br)cc2N1C, 6-bromo-3,4-dimethyl-2,3-dihydro-1H-quinoxaline
+C#CC(C)NC(C)CN(CC)CC, 2-N-but-3-yn-2-yl-1-N,1-N-diethylpropane-1,2-diamine
+CCCC(=N)N1CCSC(C)CC1, 1-(7-methyl-1,4-thiazepan-4-yl)butan-1-imine
+CCC1CCCC(SCC(O)CO)C1, 3-(3-ethylcyclohexyl)sulfanylpropane-1,2-diol
+NCCc1nnc(C(F)(F)F)o1, 2-[5-(trifluoromethyl)-1,3,4-oxadiazol-2-yl]ethanamine
+Oc1c(Cl)cc(CCl)cc1Cl, 2,6-dichloro-4-(chloromethyl)phenol
+N#CCc1cccc(NC2CC2)n1, 2-[6-(cyclopropylamino)pyridin-2-yl]acetonitrile
+CC1(N)C=C2CCCC(C2)C1, 3-methylbicyclo[3.3.1]non-1-en-3-amine
+Cc1cn2nc(I)cc(C)c2n1, 6-iodo-2,8-dimethylimidazo[1,2-b]pyridazine
+CCCCCCCCCCNCCCCOCCOC, N-[4-(2-methoxyethoxy)butyl]decan-1-amine
+C=C(Cl)CNC(=O)NCC#CC, 1-but-2-ynyl-3-(2-chloroprop-2-enyl)urea
+CN(C#N)C(=N)N1CCCCC1, N-cyano-N-methylpiperidine-1-carboximidamide
+COC(=O)[C@@H](C)CCBr, methyl (2S)-4-bromo-2-methylbutanoate
+CCC(C)CCCC(C)CC(=O)O, 3,7-dimethylnonanoic acid
+CC(C)CCCOc1cccc(N)n1, 6-(4-methylpentoxy)pyridin-2-amine
+CCCCCCCC(C)CC(C)(C)N, 2,4-dimethylundecan-2-amine
+N#CC1(C2CCCC2)COCCN1, 3-cyclopentylmorpholine-3-carbonitrile
+CCc1nncn1CCNC1CCOC1C, N-[2-(3-ethyl-1,2,4-triazol-4-yl)ethyl]-2-methyloxolan-3-amine
+NCCCN1CCCc2ccccc2CC1, 3-(2,4,5,6-tetrahydro-1H-3-benzazocin-3-yl)propan-1-amine
+Cc1cc(OCC2CC2)c[nH]1, 4-(cyclopropylmethoxy)-2-methyl-1H-pyrrole
+C=C1C(C(=O)Cl)C1(C)C, 2,2-dimethyl-3-methylidenecyclopropane-1-carbonyl chloride
+NCS(=O)(=O)OC1CCCCC1, cyclohexyl aminomethanesulfonate
+C=C(C)c1ccc(F)c(C)n1, 3-fluoro-2-methyl-6-prop-1-en-2-ylpyridine
+Nc1cc(C(F)F)nc(I)c1F, 6-(difluoromethyl)-3-fluoro-2-iodopyridin-4-amine
+CO[C@](C)(O)N1CCCCC1, (1S)-1-methoxy-1-piperidin-1-ylethanol
+CC(C)C(O)CNC(C)C(C)O, 1-(3-hydroxybutan-2-ylamino)-3-methylbutan-2-ol
+COC1CCCC(NCC2CC2C)C1, 3-methoxy-N-[(2-methylcyclopropyl)methyl]cyclohexan-1-amine
+O=C(O)c1cccc(OCBr)n1, 6-(bromomethoxy)pyridine-2-carboxylic acid
+CCSC(=O)N1CCCC(O)CC1, S-ethyl 4-hydroxyazepane-1-carbothioate
+OC(CF)CN1CCn2ccnc2C1, 1-(6,8-dihydro-5H-imidazo[1,2-a]pyrazin-7-yl)-3-fluoropropan-2-ol
+FC(F)(F)[C@H](Br)CCl, (2S)-2-bromo-3-chloro-1,1,1-trifluoropropane
+O=c1[nH]ccc(CCl)c1Br, 3-bromo-4-(chloromethyl)-1H-pyridin-2-one
+CCCNCCC(C)C1CC1C(C)C, 3-(2-propan-2-ylcyclopropyl)-N-propylbutan-1-amine
+CCCON1CCC(=O)C(C)C1C, 2,3-dimethyl-1-propoxypiperidin-4-one
+CCCCCCN1CC(C)=C(C)C1, 1-hexyl-3,4-dimethyl-2,5-dihydropyrrole
+Cc1coc(C2(CCN)CC2)n1, 2-[1-(4-methyl-1,3-oxazol-2-yl)cyclopropyl]ethanamine
+Cc1cc(NCc2cccs2)ccn1, 2-methyl-N-(thiophen-2-ylmethyl)pyridin-4-amine
+COCC1(C2CC2)NCC(C)S1, 2-cyclopropyl-2-(methoxymethyl)-5-methyl-1,3-thiazolidine
+CCC1CN(CC(N)=O)CCC1O, 2-(3-ethyl-4-hydroxypiperidin-1-yl)acetamide
+CCC1Nc2ncnc(N)c2C1CC, 5,6-diethyl-6,7-dihydro-5H-pyrrolo[2,3-d]pyrimidin-4-amine
+CC=C(C)C(C=O)c1ccco1, 2-(furan-2-yl)-3-methylpent-3-enal
+CCCCCCCCCCCCCCCC=COC, 1-methoxyheptadec-1-ene
+C/C(=N/N)c1cncc(F)c1, (Z)-1-(5-fluoropyridin-3-yl)ethylidenehydrazine
+CCC(CO)NC(=O)C(=O)NC, N'-(1-hydroxybutan-2-yl)-N-methyloxamide
+CC(Br)CCN(C)CC1CCCO1, 3-bromo-N-methyl-N-(oxolan-2-ylmethyl)butan-1-amine
+C=CCSc1c(F)cc(N)cc1F, 3,5-difluoro-4-prop-2-enylsulfanylaniline
+CSc1sc(N)nc(=O)c1C#N, 2-amino-6-methylsulfanyl-4-oxo-1,3-thiazine-5-carbonitrile
+Cc1ccsc1C(=O)CCC(C)C, 4-methyl-1-(3-methylthiophen-2-yl)pentan-1-one
+Fc1cc(CCl)cc2ccccc12, 3-(chloromethyl)-1-fluoronaphthalene
+Nc1csc(NCc2ccccc2)c1, 2-N-benzylthiophene-2,4-diamine
+N#[N+]NC(=O)c1ccncc1, 4-(diazoniocarbamoyl)pyridine
+CCNCCCCC(CCCCNCC)NCC, 1-N,5-N,9-N-triethylnonane-1,5,9-triamine
+CCCCCC(CC)C(CC)C(O)O, 2,3-diethyloctane-1,1-diol
+CC(C)OCC1(C#N)CCCCC1, 1-(propan-2-yloxymethyl)cyclohexane-1-carbonitrile
+Cn1cnc2c(NCCF)ncnc21, N-(2-fluoroethyl)-9-methylpurin-6-amine
+CC(C)CSCCNCC1=CCCOC1, N-(3,6-dihydro-2H-pyran-5-ylmethyl)-2-(2-methylpropylsulfanyl)ethanamine
+CCOC(=O)c1ncc(N)cc1C, ethyl 5-amino-3-methylpyridine-2-carboxylate
+Clc1cnccc1NCCc1nccs1, 3-chloro-N-[2-(1,3-thiazol-2-yl)ethyl]pyridin-4-amine
+CC1(C)CN(C(=N)N)CCS1, 2,2-dimethylthiomorpholine-4-carboximidamide
+NCC1CCN(C(=O)CCO)CC1, 1-[4-(aminomethyl)piperidin-1-yl]-3-hydroxypropan-1-one
+NCC1CN(Cc2cncs2)CCO1, [4-(1,3-thiazol-5-ylmethyl)morpholin-2-yl]methanamine
+Cc1csc2ccc(S)c(F)c12, 4-fluoro-3-methyl-1-benzothiophene-5-thiol
+O=C1CC2CCC(C1)N2CCCI, 8-(3-iodopropyl)-8-azabicyclo[3.2.1]octan-3-one
+COCCOCc1nnc(CCCCl)s1, 2-(3-chloropropyl)-5-(2-methoxyethoxymethyl)-1,3,4-thiadiazole
+CN=CCCc1cccc(CCCN)c1, 3-[3-(3-methyliminopropyl)phenyl]propan-1-amine
+NCc1noc(-c2nnsc2N)n1, 4-[3-(aminomethyl)-1,2,4-oxadiazol-5-yl]thiadiazol-5-amine
+CCN1CCN(C(=O)NC)CC1C, 4-ethyl-N,3-dimethylpiperazine-1-carboxamide
+CC1NC(=O)CC12CCCSC2C, 1,6-dimethyl-7-thia-2-azaspiro[4.5]decan-3-one
+C#CC(NC)C1CN2CCN1CC2, 1-(1,4-diazabicyclo[2.2.2]octan-2-yl)-N-methylprop-2-yn-1-amine
+CCCCOC(C)CC(C)(CO)NC, 4-butoxy-2-methyl-2-(methylamino)pentan-1-ol
+NC1(COc2ccncc2)CCCC1, 1-(pyridin-4-yloxymethyl)cyclopentan-1-amine
+N#CC1=CC(NC(=O)O)CC1, (3-cyanocyclopent-2-en-1-yl)carbamic acid
+C#CCNS(=O)(=O)C1COC1, N-prop-2-ynyloxetane-3-sulfonamide
+C#CCCC(=O)CC1(N)CCC1, 1-(1-aminocyclobutyl)hex-5-yn-2-one
+CCC(Cl)CCNCCC(F)(F)F, 3-chloro-N-(3,3,3-trifluoropropyl)pentan-1-amine
+O=C1NOC2C1CNC2C(=O)O, 3-oxo-4,5,6,6a-tetrahydro-3aH-pyrrolo[3,4-d][1,2]oxazole-6-carboxylic acid
+C=CCC(C)(F)CC1COCCN1, 3-(2-fluoro-2-methylpent-4-enyl)morpholine
+CC(C1CC1CBr)C(C)(C)C, 1-(bromomethyl)-2-(3,3-dimethylbutan-2-yl)cyclopropane
+CN1CCN(CCS)C(=O)C1=O, 1-methyl-4-(2-sulfanylethyl)piperazine-2,3-dione
+Cc1c(-c2ncncn2)cnn1C, 2-(1,5-dimethylpyrazol-4-yl)-1,3,5-triazine
+c1cc2nonc2cc1OC1CCC1, 5-cyclobutyloxy-2,1,3-benzoxadiazole
+C=CC1(C#N)CC1C(=O)OC, methyl 2-cyano-2-ethenylcyclopropane-1-carboxylate
+CCC1Sc2ccc(Br)cc2C1N, 5-bromo-2-ethyl-2,3-dihydro-1-benzothiophen-3-amine
+CC(C)C(=O)c1ccccc1NO, 1-[2-(hydroxyamino)phenyl]-2-methylpropan-1-one
+C[C@@H](O)CNCc1cocn1, (2R)-1-(1,3-oxazol-4-ylmethylamino)propan-2-ol
+C/C=C/CCNC(C)(CN)CCC, 2-methyl-2-N-[(E)-pent-3-enyl]pentane-1,2-diamine
+CCOCC(=O)NC(C)(CC)CO, 2-ethoxy-N-(1-hydroxy-2-methylbutan-2-yl)acetamide
+CC1(NCCC2CSCCN2)CCC1, 1-methyl-N-(2-thiomorpholin-3-ylethyl)cyclobutan-1-amine
+CCC(C)C1CCN(CC#N)CC1, 2-(4-butan-2-ylpiperidin-1-yl)acetonitrile
+CC(C)N=C(N)NC1(C)CC1, 1-(1-methylcyclopropyl)-2-propan-2-ylguanidine
+CN[C@H]1CCCc2c1ncn2C, (4S)-N,1-dimethyl-4,5,6,7-tetrahydrobenzimidazol-4-amine
+NCCNC1CCOC2(CCSC2)C1, N'-(6-oxa-2-thiaspiro[4.5]decan-9-yl)ethane-1,2-diamine
+CC1(C)CCSCC1N1CCNCC1, 1-(4,4-dimethylthian-3-yl)piperazine
+C(#CC1CCCC1)c1cccnc1, 3-(2-cyclopentylethynyl)pyridine
+CN1CCCCC1c1ccc(N)nn1, 6-(1-methylpiperidin-2-yl)pyridazin-3-amine
+O=Cc1c#cc(C(=O)O)cc1, 4-formylcyclohexa-1,3-dien-5-yne-1-carboxylic acid
+CC1C(O)C2C=CC(O2)C1O, 3-methyl-8-oxabicyclo[3.2.1]oct-6-ene-2,4-diol

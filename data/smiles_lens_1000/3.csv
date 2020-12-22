@@ -1,0 +1,62 @@
+input,target
+CBF,fluoro(methyl)borane
+CBP,methylboranylphosphane
+CBS,methylborinothioic acid
+CBN,aminoboranylmethane
+CBO,methylborinic acid
+CBN,aminoboranylmethane
+CBO,methylborinic acid
+P=S,sulfanylidenephosphane
+PSS,disulfanylphosphane
+OCF,fluoromethanol
+CSF,methyl thiohypofluorite
+NNI,iodohydrazine
+PBr,bromophosphane
+CNI,N-iodomethanamine
+CPF,fluoro(methyl)phosphane
+FCS,fluoromethanethiol
+FSI,iodo thiohypofluorite
+P=S,sulfanylidenephosphane
+PSS,disulfanylphosphane
+CSF,methyl thiohypofluorite
+OCF,fluoromethanol
+NNI,iodohydrazine
+PBr,bromophosphane
+CNI,N-iodomethanamine
+CPF,fluoro(methyl)phosphane
+FCS,fluoromethanethiol
+FSI,iodo thiohypofluorite
+OCI,iodomethanol
+COP,methoxyphosphane
+SBr,thiohypobromous acid
+OCS,sulfanylmethanol
+BCC,ethylborane
+PCP,phosphanylmethylphosphane
+B#B,boranylidyneborane
+NCO,aminomethanol
+NNS,N-aminothiohydroxylamine
+CPO,methylphosphinous acid
+ONS,N-sulfanylhydroxylamine
+OOI,hydroxy hypoiodite
+N=P,iminophosphane
+COS,sulfanyloxymethane
+NCI,iodomethanamine
+OCP,phosphanylmethanol
+OPP,phosphanylphosphinous acid
+ONP,N-phosphanylhydroxylamine
+CNS,N-methylthiohydroxylamine
+NSP,S-phosphanylthiohydroxylamine
+CNP,N-phosphanylmethanamine
+ONF,N-fluorohydroxylamine
+FCP,fluoromethylphosphane
+PNP,diphospazane
+PPS,phosphanylphosphinothious acid
+PCS,phosphanylmethanethiol
+OOF,hydroxy hypofluorite
+NSF,amino thiohypofluorite
+OPO,phosphonous acid
+NPS,aminophosphinothious acid
+FPS,fluorophosphinothious acid
+SPI,iodophosphinothious acid
+OPI,iodophosphinous acid
+NBS,aminoborinothioic acid

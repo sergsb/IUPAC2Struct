@@ -1,0 +1,520 @@
+input,target
+ONCCF,N-(2-fluoroethyl)hydroxylamine
+NC#SN,(amino-λ4-sulfanylidyne)methanamine
+NCCSO,2-hydroxysulfanylethanamine
+CPCCN,2-methylphosphanylethanamine
+OCP=S,thiophosphorosomethanol
+C=COP,ethenoxyphosphane
+COSOS,sulfanyloxysulfanyloxymethane
+C=CPC,ethenyl(methyl)phosphane
+CCOPO,ethoxyphosphinous acid
+CPC#N,methylphosphanylformonitrile
+CCSPC,ethylsulfanyl(methyl)phosphane
+CPCPC,methyl(methylphosphanylmethyl)phosphane
+CPCCP,methyl(2-phosphanylethyl)phosphane
+C1PP1,diphosphirane
+C1NP1,azaphosphiridine
+C#CPC,ethynyl(methyl)phosphane
+CCSCS,ethylsulfanylmethanethiol
+CNCCI,2-iodo-N-methylethanamine
+COCNN,methoxymethylhydrazine
+O=NCP,nitrosomethylphosphane
+FCOCS,fluoromethoxymethanethiol
+CON=S,thionitrosooxymethane
+C#CPP,ethynyl(phosphanyl)phosphane
+FCPCl,chloro(fluoromethyl)phosphane
+B1CC1,borirane
+OOOCF,fluoro(trioxidanyl)methane
+C=BBr,bromo(methylidene)borane
+C=BCl,chloro(methylidene)borane
+CN[O],N-λ1-oxidanylmethanamine
+ON=CF,N-hydroxymethanimidoyl fluoride
+COP=N,imino(methoxy)phosphane
+CC#SC,ethylidyne(methyl)-λ4-sulfane
+BNC#N,boranylcyanamide
+N#CBF,fluoroboranylformonitrile
+CSSPI,iodo-(methyldisulfanyl)phosphane
+C=PSI,methylidenephosphanyl thiohypoiodite
+CSPCS,methylsulfanylphosphanylmethanethiol
+CNPCP,N-(phosphanylmethylphosphanyl)methanamine
+CCPCP,ethyl(phosphanylmethyl)phosphane
+CCPOS,ethyl(sulfanyloxy)phosphane
+OCSCS,sulfanylmethylsulfanylmethanol
+ClOCI,iodomethyl hypochlorite
+CCOSP,ethoxysulfanylphosphane
+COPOP,methoxy(phosphanyloxy)phosphane
+CCCPS,propylphosphinothious acid
+CCOSS,disulfanyloxyethane
+CNCNI,"""N-iodo-N-methylmethanediamine"""
+CB=CI,iodomethylidene(methyl)borane
+CCPSC,ethyl(methylsulfanyl)phosphane
+NCCSI,2-aminoethyl thiohypoiodite
+OCNCI,(iodomethylamino)methanol
+FPCCP,fluoro(2-phosphanylethyl)phosphane
+C=CSI,ethenyl thiohypoiodite
+CNONI,N-(iodoamino)oxymethanamine
+CCSPI,ethylsulfanyl(iodo)phosphane
+COSCS,methoxysulfanylmethanethiol
+COPSC,methoxy(methylsulfanyl)phosphane
+SCCOI,2-sulfanylethyl hypoiodite
+SSCSS,bis(disulfanyl)methane
+CSSOO,(hydroperoxydisulfanyl)methane
+CCSCP,ethylsulfanylmethylphosphane
+CCSCP,ethylsulfanylmethylphosphane
+CN=PI,iodo(methylimino)phosphane
+CN=PI,iodo(methylimino)phosphane
+CN=NI,iodo(methyl)diazene
+NNCCI,2-iodoethylhydrazine
+NOCCI,O-(2-iodoethyl)hydroxylamine
+CCNSI,ethylamino thiohypoiodite
+CN=BI,iodo(methylimino)borane
+S=CSI,iodo methanedithioate
+CSSSN,S-(methyldisulfanyl)thiohydroxylamine
+CNNNI,[2-(iodoamino)hydrazinyl]methane
+ICNNI,1-iodo-2-(iodomethyl)hydrazine
+NNNCI,(2-aminohydrazinyl)-iodomethane
+C=NPI,N-iodophosphanylmethanimine
+NOCCF,O-(2-fluoroethyl)hydroxylamine
+[B]CC,ethylboron
+CC=PC,ethylidene(methyl)phosphane
+[Ga]I,iodogallium
+COP=O,phosphorosooxymethane
+NCCCP,3-phosphanylpropan-1-amine
+COC=N,methyl methanimidate
+[B-]N,aminoboron(1-)
+[B]OC,methoxyboron
+C[Bi],methylbismuth
+CCONO,N-ethoxyhydroxylamine
+[B]Br,bromoboron
+OCPCO,hydroxymethylphosphanylmethanol
+NOC=O,amino formate
+[B-]F,fluoroboron(1-)
+CCOSO,hydroxysulfanyloxyethane
+COOOC,methoxyperoxymethane
+O=COF,fluoro formate
+NNPNN,hydrazinylphosphanylhydrazine
+CCOBr,ethyl hypobromite
+COCSS,disulfanyl(methoxy)methane
+N=CCF,2-fluoroethanimine
+O=PCO,phosphorosomethanol
+OCCNP,2-(phosphanylamino)ethanol
+[B]SC,methylsulfanylboron
+FSCSF,fluorosulfanylmethyl thiohypofluorite
+NNONN,hydrazinyloxyhydrazine
+NC#CO,2-aminoethynol
+PCNCP,1-phosphanyl-N-(phosphanylmethyl)methanamine
+O=C=P,phosphanylidenemethanone
+P[B]P,bis(phosphanyl)boron
+CN=CN,"""N-methylmethanimidamide"""
+COOOO,hydroperoxyperoxymethane
+N=NCI,iodomethyldiazene
+[B]PI,iodophosphanylboron
+C[B]N,amino(methyl)boron
+[BH]C,methyl-λ2-borane
+S[B]S,bis(sulfanyl)boron
+NCCSS,2-(disulfanyl)ethanamine
+N#COF,fluoro cyanate
+OOC=S,O-hydroxy methanethioate
+CSOSC,methylsulfanyloxysulfanylmethane
+O[B]F,fluoro(hydroxy)boron
+ONCBr,N-(bromomethyl)hydroxylamine
+ONCCl,N-(chloromethyl)hydroxylamine
+ONC=S,N-hydroxymethanethioamide
+[B]=C,methylideneboron
+NSCCS,2-aminosulfanylethanethiol
+CNNCl,1-chloro-2-methylhydrazine
+N#COO,peroxycyanic acid
+N#COO,peroxycyanic acid
+CCCNP,N-phosphanylpropan-1-amine
+CCCNP,N-phosphanylpropan-1-amine
+C[B]O,hydroxy(methyl)boron
+B#[U],boranylidyneuranium
+NCP=S,thiophosphorosomethanamine
+CSOON,O-methylsulfanyloxyhydroxylamine
+C=NCO,(methylideneamino)methanol
+CNOCl,methylamino hypochlorite
+[B]NN,hydrazinylboron
+COOSC,methylsulfanylperoxymethane
+COCOF,methoxymethyl hypofluorite
+CCOCS,ethoxymethanethiol
+OCCSS,2-(disulfanyl)ethanol
+C1OS1,oxathiirane
+OCCNS,2-(sulfanylamino)ethanol
+COPCl,chloro(methoxy)phosphane
+[B-]C,methylboron(1-)
+PCCSI,2-phosphanylethyl thiohypoiodite
+CSSCP,(methyldisulfanyl)methylphosphane
+O=PCI,iodo(phosphoroso)methane
+CN=CI,N-methylmethanimidoyl iodide
+P=NCI,iodomethyliminophosphane
+BNC#N,boranylcyanamide
+N#CBF,fluoroboranylformonitrile
+CSSPI,iodo-(methyldisulfanyl)phosphane
+C=PSI,methylidenephosphanyl thiohypoiodite
+CSPCS,methylsulfanylphosphanylmethanethiol
+CNPCP,N-(phosphanylmethylphosphanyl)methanamine
+CCPCP,ethyl(phosphanylmethyl)phosphane
+CCPOS,ethyl(sulfanyloxy)phosphane
+OCSCS,sulfanylmethylsulfanylmethanol
+ClOCI,iodomethyl hypochlorite
+CCOSP,ethoxysulfanylphosphane
+COPOP,methoxy(phosphanyloxy)phosphane
+CCCPS,propylphosphinothious acid
+CCOSS,disulfanyloxyethane
+CNCNI,"""N-iodo-N-methylmethanediamine"""
+CB=CI,iodomethylidene(methyl)borane
+CCPSC,ethyl(methylsulfanyl)phosphane
+NCCSI,2-aminoethyl thiohypoiodite
+OCNCI,(iodomethylamino)methanol
+FPCCP,fluoro(2-phosphanylethyl)phosphane
+C=CSI,ethenyl thiohypoiodite
+CNONI,N-(iodoamino)oxymethanamine
+CCSPI,ethylsulfanyl(iodo)phosphane
+COSCS,methoxysulfanylmethanethiol
+COPSC,methoxy(methylsulfanyl)phosphane
+SCCOI,2-sulfanylethyl hypoiodite
+SSCSS,bis(disulfanyl)methane
+CSSOO,(hydroperoxydisulfanyl)methane
+CCSCP,ethylsulfanylmethylphosphane
+CN=PI,iodo(methylimino)phosphane
+CN=NI,iodo(methyl)diazene
+NNCCI,2-iodoethylhydrazine
+NOCCI,O-(2-iodoethyl)hydroxylamine
+CCNSI,ethylamino thiohypoiodite
+CN=BI,iodo(methylimino)borane
+S=CSI,iodo methanedithioate
+CSSSN,S-(methyldisulfanyl)thiohydroxylamine
+CNNNI,[2-(iodoamino)hydrazinyl]methane
+ICNNI,1-iodo-2-(iodomethyl)hydrazine
+NNNCI,(2-aminohydrazinyl)-iodomethane
+C=NPI,N-iodophosphanylmethanimine
+NOCCF,O-(2-fluoroethyl)hydroxylamine
+[B]CC,ethylboron
+CC=PC,ethylidene(methyl)phosphane
+[Ga]I,iodogallium
+COP=O,phosphorosooxymethane
+NCCCP,3-phosphanylpropan-1-amine
+COC=N,methyl methanimidate
+[B-]N,aminoboron(1-)
+[B]OC,methoxyboron
+C[Bi],methylbismuth
+CCONO,N-ethoxyhydroxylamine
+[B]Br,bromoboron
+OCPCO,hydroxymethylphosphanylmethanol
+NOC=O,amino formate
+[B-]F,fluoroboron(1-)
+CCOSO,hydroxysulfanyloxyethane
+COOOC,methoxyperoxymethane
+O=COF,fluoro formate
+NNPNN,hydrazinylphosphanylhydrazine
+CCOBr,ethyl hypobromite
+COCSS,disulfanyl(methoxy)methane
+N=CCF,2-fluoroethanimine
+O=PCO,phosphorosomethanol
+OCCNP,2-(phosphanylamino)ethanol
+[B]SC,methylsulfanylboron
+FSCSF,fluorosulfanylmethyl thiohypofluorite
+NNONN,hydrazinyloxyhydrazine
+NC#CO,2-aminoethynol
+PCNCP,1-phosphanyl-N-(phosphanylmethyl)methanamine
+O=C=P,phosphanylidenemethanone
+P[B]P,bis(phosphanyl)boron
+CN=CN,"""N-methylmethanimidamide"""
+COOOO,hydroperoxyperoxymethane
+N=NCI,iodomethyldiazene
+[B]PI,iodophosphanylboron
+C[B]N,amino(methyl)boron
+[BH]C,methyl-λ2-borane
+S[B]S,bis(sulfanyl)boron
+NCCSS,2-(disulfanyl)ethanamine
+N#COF,fluoro cyanate
+OOC=S,O-hydroxy methanethioate
+CSOSC,methylsulfanyloxysulfanylmethane
+O[B]F,fluoro(hydroxy)boron
+ONCBr,N-(bromomethyl)hydroxylamine
+ONCCl,N-(chloromethyl)hydroxylamine
+ONC=S,N-hydroxymethanethioamide
+[B]=C,methylideneboron
+NSCCS,2-aminosulfanylethanethiol
+CNNCl,1-chloro-2-methylhydrazine
+N#COO,peroxycyanic acid
+CCCNP,N-phosphanylpropan-1-amine
+C[B]O,hydroxy(methyl)boron
+B#[U],boranylidyneuranium
+NCP=S,thiophosphorosomethanamine
+CSOON,O-methylsulfanyloxyhydroxylamine
+C=NCO,(methylideneamino)methanol
+CNOCl,methylamino hypochlorite
+[B]NN,hydrazinylboron
+COOSC,methylsulfanylperoxymethane
+COCOF,methoxymethyl hypofluorite
+CCOCS,ethoxymethanethiol
+OCCSS,2-(disulfanyl)ethanol
+C1OS1,oxathiirane
+OCCNS,2-(sulfanylamino)ethanol
+COPCl,chloro(methoxy)phosphane
+[B-]C,methylboron(1-)
+PCCSI,2-phosphanylethyl thiohypoiodite
+CSSCP,(methyldisulfanyl)methylphosphane
+O=PCI,iodo(phosphoroso)methane
+CN=CI,N-methylmethanimidoyl iodide
+P=NCI,iodomethyliminophosphane
+[13B],boron-13
+CSN=O,nitrososulfanylmethane
+NC#CN,"ethyne-1,2-diamine"
+CSC=S,methyl methanedithioate
+I[U]I,diiodouranium
+CC#CS,prop-1-yne-1-thiol
+NNCNN,hydrazinylmethylhydrazine
+N#CNN,aminocyanamide
+[3H]C,tritiomethane
+CSCBr,bromo(methylsulfanyl)methane
+CCSCl,ethyl thiohypochlorite
+C[Tl],methylthallium
+NNCCS,2-hydrazinylethanethiol
+S=CCl,methanethioyl chloride
+COPOC,dimethoxyphosphane
+C=NSC,N-methylsulfanylmethanimine
+CCN=N,ethyldiazene
+O=CSO,S-hydroxy methanethioate
+C[PH],λ2-phosphanylmethane
+CCNCl,N-chloroethanamine
+C[P]C,(methyl-λ2-phosphanyl)methane
+[B]CO,hydroxymethylboron
+C=NOC,N-methoxymethanimine
+CCOCI,iodomethoxyethane
+FCCCI,1-fluoro-3-iodopropane
+CCSCN,ethylsulfanylmethanamine
+C[B]C,dimethylboron
+CSCON,O-(methylsulfanylmethyl)hydroxylamine
+C[Sb],methylantimony
+ClPCl,dichlorophosphane
+OCCCP,3-phosphanylpropan-1-ol
+NCOCN,aminomethoxymethanamine
+COCOO,hydroperoxy(methoxy)methane
+C=BOC,methoxy(methylidene)borane
+NCNCO,(aminomethylamino)methanol
+[2H]B,deuterioborane
+[Sn]I,iodotin
+O[As],hydroxyarsenic
+[B]NC,methylaminoboron
+CCOCF,fluoromethoxyethane
+OCOCO,hydroxymethoxymethanol
+C[O-],methanolate
+[Ru+],ruthenium(1+)
+N#CCS,2-sulfanylacetonitrile
+PCCCP,3-phosphanylpropylphosphane
+N=CCN,2-iminoethanamine
+CSOSS,disulfanyloxysulfanylmethane
+CSOSI,methylsulfanyloxy thiohypoiodite
+SSOCI,disulfanyloxy(iodo)methane
+FCCPS,2-fluoroethylphosphinothious acid
+CSSSO,(hydroxytrisulfanyl)methane
+FCCOI,2-fluoroethyl hypoiodite
+FCOSF,fluoromethoxy thiohypofluorite
+C[Se],λ1-selanylmethane
+F[Si],fluorosilicon
+[B]=O,oxoboron
+[Si]I,iodosilicon
+[Si]S,sulfanylsilicon
+[B]=S,sulfanylideneboron
+[Si]P,phosphanylsilicon
+F[Ge],fluorogermanium
+[B]=P,phosphanylideneboron
+O[Si],hydroxysilicon
+S[As],sulfanylarsenic
+I[Bi],iodobismuth
+C[Ge],methylgermanium
+[Sb]I,iodoantimony
+[B]Cl,chloroboron
+C[Te],λ1-tellanylmethane
+[7Be],beryllium-7
+C[As],methylarsenic
+[SbH],λ1-stibane
+[GaH],λ1-gallane
+[In]I,iodoindium
+[Si-],silicon(1-)
+[10B],boron-10
+F[Sb],fluoroantimony
+C[In],methylindium
+[InH],λ1-indigane
+[Se+],selenium(1+)
+C[Ga],methylgallium
+[NH-],nitrogen(1-) monohydride
+SCSCS,sulfanylmethylsulfanylmethanethiol
+CCCSS,1-(disulfanyl)propane
+CSCSS,disulfanyl(methylsulfanyl)methane
+I[B]I,diiodoboron
+CC#CO,prop-1-yn-1-ol
+C=NNC,N-(methylideneamino)methanamine
+C=CNN,ethenylhydrazine
+[3H-],tritide
+[2H-],deuteride
+[1H-],protide
+[3He],helium-3
+[Cl+],chlorine(1+)
+[2H]F,(2H)fluorane
+CSSOI,(methyldisulfanyl) hypoiodite
+CSSOS,(sulfanyloxydisulfanyl)methane
+CSOSO,hydroxysulfanyloxysulfanylmethane
+P#SCI,(iodomethyl-λ4-sulfanylidyne)phosphane
+O=CPP,diphosphanylformaldehyde
+CCOPF,ethoxy(fluoro)phosphane
+N[Sb],aminoantimony
+ON=CI,N-hydroxymethanimidoyl iodide
+OCPCl,chlorophosphanylmethanol
+OSCCS,2-hydroxysulfanylethanethiol
+C=CSP,ethenylsulfanylphosphane
+NC=NS,"""N-sulfanylmethanimidamide"""
+NCPCN,aminomethylphosphanylmethanamine
+OCCPO,2-hydroxyethylphosphinous acid
+CCP=P,ethyl(phosphanylidene)phosphane
+CN=PN,(aminophosphanylideneamino)methane
+CC=NS,N-ethylidenethiohydroxylamine
+CON=P,methoxyiminophosphane
+NSCSN,S-(aminosulfanylmethyl)thiohydroxylamine
+POCOP,phosphanyloxymethoxyphosphane
+F[At],fluoroastatine
+CCOOO,trioxidanylethane
+CP=NP,methyl(phosphanylimino)phosphane
+o1os1,dioxathiirane
+OCSCO,hydroxymethylsulfanylmethanol
+BrPBr,dibromophosphane
+[B]OP,phosphanyloxyboron
+C=CSN,S-ethenylthiohydroxylamine
+CNONC,N-(methylaminooxy)methanamine
+COC=S,O-methyl methanethioate
+POCCl,chloromethoxyphosphane
+FC#CI,1-fluoro-2-iodoethyne
+N=CCO,2-iminoethanol
+NCCOO,2-hydroperoxyethanamine
+ICCOI,2-iodoethyl hypoiodite
+COC=P,methoxymethylidenephosphane
+NCP=O,phosphorosomethanamine
+C=COO,hydroperoxyethene
+O=COP,phosphanyl formate
+C=CON,O-ethenylhydroxylamine
+O=CNS,N-sulfanylformamide
+CCOSC,methylsulfanyloxyethane
+O=COS,sulfanyl formate
+O=COI,iodo formate
+CCCNS,N-propylthiohydroxylamine
+CCPCl,chloro(ethyl)phosphane
+NSCCO,2-aminosulfanylethanol
+O=CNI,N-iodoformamide
+CCOCN,ethoxymethanamine
+F[B]S,fluoro(sulfanyl)boron
+C[B]S,methyl(sulfanyl)boron
+FCC=S,2-fluoroethanethial
+F[S-],thiohypofluorite
+O=CNF,N-fluoroformamide
+CNCSC,N-methyl-1-methylsulfanylmethanamine
+C1NS1,thiaziridine
+CSSCl,methylsulfanyl thiohypochlorite
+OSCCl,chloro(hydroxysulfanyl)methane
+CCCOF,propyl hypofluorite
+NNCON,O-(hydrazinylmethyl)hydroxylamine
+FCSCl,fluoromethyl thiohypochlorite
+CCCOP,propoxyphosphane
+CCCOS,1-sulfanyloxypropane
+CCNCF,N-(fluoromethyl)ethanamine
+NON=O,amino nitrite
+NSC=O,S-amino methanethioate
+NSC=O,S-amino methanethioate
+OCOSO,hydroxysulfanyloxymethanol
+C=NON,O-(methylideneamino)hydroxylamine
+C1SS1,dithiirane
+C=S=C,dimethylidene-λ4-sulfane
+SCCNS,2-(sulfanylamino)ethanethiol
+OCCNF,2-(fluoroamino)ethanol
+CSN=N,methylsulfanyldiazene
+[B]=N,iminoboron
+ICNCI,1-iodo-N-(iodomethyl)methanamine
+[B]OO,hydroperoxyboron
+CONBr,(bromoamino)oxymethane
+O=CSS,S-sulfanyl methanethioate
+CCCSN,S-propylthiohydroxylamine
+C=COS,sulfanyloxyethene
+POPOP,bis(phosphanyloxy)phosphane
+N#COP,phosphanyl cyanate
+OC#CS,2-sulfanylethynol
+S=CSS,sulfanyl methanedithioate
+C[B]F,fluoro(methyl)boron
+COOOS,sulfanyloxyperoxymethane
+CCCPP,phosphanyl(propyl)phosphane
+C=NCN,(methylideneamino)methanamine
+CNCCl,1-chloro-N-methylmethanamine
+CNCBr,1-bromo-N-methylmethanamine
+P[B]S,phosphanyl(sulfanyl)boron
+OOOCI,iodo(trioxidanyl)methane
+C=CNO,N-ethenylhydroxylamine
+S=CNS,N-sulfanylmethanethioamide
+FOCOF,fluorooxymethyl hypofluorite
+OCCSO,2-hydroxysulfanylethanol
+ONONO,N-(hydroxyamino)oxyhydroxylamine
+N#CNO,hydroxycyanamide
+OCC=S,2-hydroxyethanethial
+N[B]N,diaminoboron
+CCNNN,(2-aminohydrazinyl)ethane
+N#CON,amino cyanate
+PPCPP,diphosphanylmethyl(phosphanyl)phosphane
+[B]CN,aminomethylboron
+[B]OS,sulfanyloxyboron
+NSOSN,S-aminosulfanyloxythiohydroxylamine
+CCPCF,ethyl(fluoromethyl)phosphane
+CCCPC,methyl(propyl)phosphane
+o1ss1,oxadithiirane
+COB=O,methoxy(oxo)borane
+[8Be],beryllium-8
+[As]I,iodoarsenic
+CCSNN,ethylsulfanylhydrazine
+NCCOI,2-aminoethyl hypoiodite
+CNP=O,N-phosphorosomethanamine
+[52V],vanadium-52
+FCOCF,fluoro(fluoromethoxy)methane
+CCCCP,butylphosphane
+CCOCO,ethoxymethanol
+COCCS,2-methoxyethanethiol
+NOCCO,2-aminooxyethanol
+[Li+],lithium
+FCCCS,3-fluoropropane-1-thiol
+[CH3],λ3-carbane
+N=CCS,2-iminoethanethiol
+N#COI,iodo cyanate
+NC=CS,2-aminoethenethiol
+NOCON,O-(aminooxymethyl)hydroxylamine
+CCSCI,iodomethylsulfanylethane
+CSS#P,(methylsulfanyl-λ4-sulfanylidyne)phosphane
+FC=BI,fluoromethylidene(iodo)borane
+POCBr,bromomethoxyphosphane
+O=CPI,iodophosphanylformaldehyde
+N=CCI,2-iodoethanimine
+CSSCI,iodo-(methyldisulfanyl)methane
+CCNNI,1-ethyl-2-iodohydrazine
+C=NNI,(iodohydrazinylidene)methane
+CPOPO,methylphosphanyloxyphosphinous acid
+FCPCF,bis(fluoromethyl)phosphane
+PPCCl,chloromethyl(phosphanyl)phosphane
+FCCCP,3-fluoropropylphosphane
+O=CNP,N-phosphanylformamide
+[34S],sulfur-34
+[33S],sulfur-33
+[32S],sulfur-32
+CP=PC,methyl(methylphosphanylidene)phosphane
+CP=PC,methyl(methylphosphanylidene)phosphane
+N#CPN,aminophosphanylformonitrile
+CC=NF,N-fluoroethanimine
+FCC#P,2-fluoroethylidynephosphane
+FC=NF,N-fluoromethanimidoyl fluoride
+FCOCl,fluoromethyl hypochlorite
+O=PCP,phosphorosomethylphosphane
+NC=CO,2-aminoethenol
+PC=CI,2-iodoethenylphosphane
+PC=CI,2-iodoethenylphosphane
+NNPCl,chlorophosphanylhydrazine
+CC=CP,prop-1-enylphosphane
+[51V],vanadium-51
+[9Be],beryllium-9
+[99Y],yttrium-99
+CNNSS,1-(disulfanyl)-2-methylhydrazine
+NSN=S,S-thionitrosothiohydroxylamine
