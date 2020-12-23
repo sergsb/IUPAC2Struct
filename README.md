@@ -1,13 +1,13 @@
-###IUPAC2Struct model 
-This is our Transformer-based IUPAC2Struct model. 
-It converts IUPAC names to SMILES strings. This model's quality is almost on the same level as rules-based OPSIN; however, our solution is purely neural one.  
+### IUPAC2Struct model 
+
+This is Transformer-based IUPAC2Struct model. It converts IUPAC names to SMILES strings. The model's quality is almost on the same level as rules-based OPSIN; however, our solution is purely neural one.  
 
 | Model      | Accuracy |
 | ----------- | ----------- |
 | OPSIN       | 99.4%       |
 | IUPAC2Struct  | 99.1%        | 
 
-##Usage
+## Usage
 Create the environment first:
 
 `conda create -f environment.yml`
@@ -34,7 +34,7 @@ Default settings are:
 
 ``-f data/test_100000.csv -b 5 -n 1000 ``
 
-##Citation
+## Citation
 Please, cite: 
 
 _Krasnov, Lev; Khokhlov, Ivan; Fedorov, Maxim; Sosnin, Sergey (2020): Struct2IUPAC -- Transformer-Based Artificial Neural Network for the Conversion Between Chemical Notations. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.13274732_
