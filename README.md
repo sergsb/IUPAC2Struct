@@ -37,14 +37,18 @@ Default settings are:
 ## Citation
 Please, cite: 
 
-_Krasnov, Lev; Khokhlov, Ivan; Fedorov, Maxim; Sosnin, Sergey (2020): Struct2IUPAC -- Transformer-Based Artificial Neural Network for the Conversion Between Chemical Notations. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.13274732_
+_Krasnov, L., Khokhlov, I., Fedorov, M.V., Sosnin, S. Transformer-based artificial neural networks for the conversion between chemical notations. Sci Rep 11, 14798 (2021). https://doi.org/10.1038/s41598-021-94082-y_
 
 ````
-@article{Krasnov2020,
-  doi = {10.26434/chemrxiv.13274732},
-  url = {https://doi.org/10.26434/chemrxiv.13274732},
-  year = {2020},
-  month = nov,
-  author = {Lev Krasnov and Ivan Khokhlov and Maxim Fedorov and Sergey Sosnin},
-  title = {Struct2IUPAC -- Transformer-Based Artificial Neural Network for the Conversion Between Chemical Notations}
+@article{Krasnov2021,
+  doi = {10.1038/s41598-021-94082-y},
+  url = {https://doi.org/10.1038/s41598-021-94082-y},
+  year = {2021},
+  month = jul,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {11},
+  number = {1},
+  author = {Lev Krasnov and Ivan Khokhlov and Maxim V. Fedorov and Sergey Sosnin},
+  title = {Transformer-based artificial neural networks for the conversion between chemical notations},
+  journal = {Scientific Reports}
 }
