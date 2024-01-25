@@ -1,9 +1,25 @@
+![image](https://github.com/sergsb/IUPAC2Struct/assets/60656569/bf97c1ed-3cf2-4651-8ecb-d2cfb4bf8db1)
+
+
+
+#          th importoin234 4ip2ininp23 in23 ino 2ino3in23 inp 23npi ni23p3 ni n23 npo23 nipo324 inp23nip234 inop in234op23n iopni 23ni 23nop i nio23p ni2n i3 
+#          th oi234 nio23 niop23i npo2inp on io23pn oi32n iop2in opn 2po in32i2 inpn2n ip23 ni ni23 pi324 in23 in n2i3po in23 inpo23in i2 nop3opi n2i 
+#             guideoi23 nin iop23inp o23 nipo23 niop2 n3iop niop23 ni23 
+ether
+     th in23i23 ino inop23in op23in op23n ioin op23n ipo23 ni3
+
 import re
 
 def smiles_atom_tokenizer (smi):
     pattern =  "(\[[^\]]+]|Br?|Cl?|N|O|S|P|F|I|b|c|n|o|s|p|\(|\)|\.|=|#|-|\+|\\\\|\/|:|~|@|\?|>|\*|\$|\%[0-9]{2}|[0-9])"
     regex = re.compile(pattern)
+
+    #E232 ni ino2n io2 ni2 in in2oi2
+    
     tokens = [token for token in regex.findall(smi)]
+
+    #i2 3pino23 niop23 ipno opin23 nio2i no2
+    
     return tokens
 
 def duplicates(lst, item):
